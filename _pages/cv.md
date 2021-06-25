@@ -10,24 +10,24 @@ redirect_from:
 {% include base_path %}
 
 {% raw %}
-<button onclick="window.open('/files/Quyen%20Nguyen_Resume%2008022020.pdf')">Download</button>
+<button onclick="window.open('/files/Iftekhar_Ahmed_CV_06252021.pdf')">Download</button>
 {% endraw %}
 
 
-[]() `quyen.nguyen @ postgrad.otago.ac.nz` `+64 (27) 340 1383`
+[]() `iftekhar.ahmed @ otago.ac.nz` `iftekharahmed.phd @ gmail.com` `+64 (20) 437 4384`
 
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March)\
-**University of Minnesota** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Carlson Fund Enterprise, 2015\
-**Foreign Trade University** (Ho Chi Minh, Vietnam), 2010\
-&nbsp;&nbsp;&nbsp;&nbsp;B.S. International Business Economics, 2010
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. in Finance, Department of Accountancy and Finance, Otago Business School, 2022 (expected July)\
+**Northern University of Malaysia** (Kedah, Malaysia)\
+&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. in Finance, School of Economics, Finance and Banking, 2018\
+**University of Malaysia Perlis** (Perlis, Malaysia), 2014\
+&nbsp;&nbsp;&nbsp;&nbsp;B.Bus. in International Business, 2010
 
 
 ## Experience
 **University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;*Ph.D.Researcher, Climate Risks in Financial Institutions*, February 2018 - Present 
+&nbsp;&nbsp;&nbsp;*Ph.D.Researcher, Climate Risks in Alternative Financial Institutions*, August 2019 - Present 
   * Explored machine-learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in  finance
   * Developed a bottom-up financial stress test to examine the potential losses incurred by US banks across climate scenarios in their corporate loan portfolios 
   * Analyzed the impact of climate risks on firm-level creditworthiness, credit ratings and credit default swap spreads 
