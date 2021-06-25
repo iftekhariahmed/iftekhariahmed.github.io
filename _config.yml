@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quyen Nguyen/ PhD Student"
+title                    : "IFTEKHAR Ahmed/ Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Quyen Nguyen"
+name                     : &name "IFTEKHAR Ahmed"
 description              : &description "personal description"
-url                      : https://quyennguyen2201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://iftekhariahmed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "quyennguyen2201/quyennguyen2201.github.io"
+repository               : "iftekhariahmed/iftekhariahmed.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quyen Nguyen"
+  name             : "IFTEKHAR Ahmed"
   avatar           : "download.png"
   bio              : "University of Otago"
   location         : "New Zealand"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.nz/citations?user=zCEcVrIAAAAJ&hl=en"
-  email            : "quyen.nguyen@postgrad.otago.ac.nz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en"
+  email            : "iftekhar.ahmed@otago.ac.nz"
+  researchgate     :  "https://www.researchgate.net/profile/Iftekhar_Ahmed2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "quyennguyen2201"
+  github           : "iftekhariahmed"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/quyennguyen2201/"
+  linkedin         : "https://www.linkedin.com/in/iftekhariahmed/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "QuyenNguyen2201"
+  twitter          : "iftekhariahmed"
   vine             :
   weibo            :
   xing             :
