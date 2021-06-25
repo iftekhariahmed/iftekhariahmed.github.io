@@ -18,11 +18,11 @@ redirect_from:
 
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. in Finance, Department of Accountancy and Finance, Otago Business School, 2022 (expected July)\
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. in Finance, Otago Business School, 2022 (expected July)\
 **Northern University of Malaysia** (Kedah, Malaysia)\
 &nbsp;&nbsp;&nbsp;&nbsp;M.Sc. in Finance, School of Economics, Finance and Banking, 2018\
-**University of Malaysia Perlis** (Perlis, Malaysia), 2014\
-&nbsp;&nbsp;&nbsp;&nbsp;B.Bus. in International Business, 2010
+**University of Malaysia Perlis** (Perlis, Malaysia)\
+&nbsp;&nbsp;&nbsp;&nbsp;B.Bus. in International Business, 2014\
 
 
 ## Experience
