@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
 I am currently in my second year in the **Finance PhD program** in the Climate and Energy Finance Group [(CEF Group)](https://blogs.otago.ac.nz/cefg/about-us/), University of Otago, New Zealand. My thesis title is `"Climate Risks in Alternative Financial Institutions"`, under the supervision of: 
 * Associate Professor Ivan Diaz-Rainey, *University of Otago, NZ*  [(Website)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html)
 * Associate Professor Helen Roberts, *University of Otago, NZ*  [(Website)](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html)
