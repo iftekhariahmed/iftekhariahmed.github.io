@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IFTEKHAR Ahmed/ Ph.D. Candidate"
+title                    : "IFTEKHAR Ahmed, Ph.D. (c)"
 title_separator          : "-"
 name                     : &name "IFTEKHAR Ahmed"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "IFTEKHAR Ahmed"
   avatar           : "Capture.PNG"
-  bio              : "University of Otago"
+  bio              : "University of Otago Business School"
   location         : "New Zealand"
   employer         :
   pubmed           : 
