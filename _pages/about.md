@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year of the **Finance Ph.D. program** at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **University of Otago, New Zealand**. My thesis title is `"Climate Risks in Alternative Financial Institutions"`, under the supervision of: 
-* Associate Professor Ivan Diaz-Rainey, *University of Otago, NZ*  [(Website)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html)
-* Associate Professor Helen Roberts, *University of Otago, NZ*  [(Website)](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html)
+I am a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **University of Otago Business School, New Zealand**. My thesis title is `"Essays on Climate Finance"`, under the supervision of: 
+* [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), **University of Otago Business School**, New Zealand
+* [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html), **University of Otago Business School**, New Zealand
 
-My research focuses on the impact of climate change on financial stability. Specifically, it involves the assessment of transtional risks (i.e. carbon emissions) and phyiscal risks (i.e. sea level rise) on the largest U.S. banks. This involves a mix of cross-discipline techniques, from credit risk analysis, spatial modelling,  machine learning prediction and financial stress testing. 
+My research focuses on the connectedness between climate change and financial risk. Specifically, it involves the assessment of country-level climate vulnerability and phyiscal risk (e.g., drought, extreme temperature, flood, storm, etc.) on the microfinance institutions (MFIs). Therefore, it requires to invoke a mix of cross-discipline techniques, from advanced applied econometrics, credit risk analysis, developing new index, spatial modelling, and financial stress testing.
 
-Prior to the graduate program, I have five years of working experience in insurance, finance & data analytics in the United States and in Vietnam. This includes 3 years in risk management role at Intel Vietnam (2010-2013), 1 year in data analytics at MD24 USA (2015-2016), 1 year in corporate finance in Pfizer Vietnam (2016-2017). I also interned at the Ministry for the Environment New Zealand last summer (Nov 2019 - Feb 2020). 
+Prior to joining the Ph.D. program, I have several years of working experience in academic research in Malaysia. This includes a research assistant role for 1.5 years to a Ministry of Higher Education funded project at the School of Economics, Finance and Banking, Norther University of Malaysia (Aug 2017-Dec 2018); 1.25 years to private funded projects at the Asian Research Institute for Banking and Finance, Malaysia (Sep 2017-Dec 2018); and a visiting research assistant role for 6 months at the Accounting Research Institute, MARA University of Technology, Malaysia (Jan 2017-Jun 2017). During these employments, I had chance to prove myself as a well trained applied researcher with demonstrated skills in conducting independent research, outlining public and private funded research projects, and publishing in high quality peer-reviewed journals. Most of my works underline the policy implications in solving real world issues (e.g., climate change, poverty, inequality). 
 
-`Finance` is my specialty. During my MBA program, I worked as a student equity analyst for Carlson Investment Fund. This is a student investment fund that manages US$ 20 million in total asset under management with focus on small cap stocks. I have completed the CFA Level I in 2015, and I have worked as a teaching assistant for several 200 and 300-level finance classes.  
+`Finance` and `Development` is my specialty. I look into finance through the lens of development. I try to understand how financial activities and intermediates are not only relating to portfolio and profit, but also can be relatable to people, planet & prosperity (social and economic). I have been working as a teaching assistant for several 100, 200 and 300-level finance courses since 2020, for both in-person and online students at the **University of Otago Business School**. This has became an aditional skill of course management and teaching during the pandemic.
 
-`Data science` is my passion. I am aspired to apply machine learning algorithm and data analytic techniques in the decision making process. Outside of my PhD program, I learnt to write codes and build algorithms from scratch.  
-
-
-
+`Data science` is my emerging passion. I am aspired to learn machine learning algorithm and data analytic techniques in the decision making process. Apart from my Ph.D. research, I have been learning to write codes and build algorithms from scratch.
