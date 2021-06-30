@@ -14,15 +14,25 @@ redirect_from:
 {% endraw %}
 
 
-[]() `iftekhar.ahmed @ otago.ac.nz` `iftekharahmed.phd @ gmail.com` `+64 (20) 437 4384`
+<h1 class="western" align="center"><b>IFTEKHAR AHMED</b></h1>
+<p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span>iftekhar.ahmed [at] otago.ac.nz | <a href="http://iftekhariahmed.github.io/">iftekhariahmed.github.io</a> | <a href="http://www.twitter.com/iftekhariahmed">@iftekhariahmed</a> | <a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">Google Scholar</a></span></p>
+
 
 ## Education
-**University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. in Finance, Otago Business School, 2022 (expected July)\
-**Northern University of Malaysia** (Kedah, Malaysia)\
-&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. in Finance, School of Economics, Finance and Banking, 2018\
-**University of Malaysia Perlis** (Perlis, Malaysia)\
-&nbsp;&nbsp;&nbsp;&nbsp;B.Bus. in International Business, 2014\
+**Otago Business School, University of Otago**, New Zealand\
+&nbsp;&nbsp;&nbsp;&nbsp;***Ph.D. in Finance***, July 2022 (expected)\
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: *Essays on Climate Finance*\
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisors: Assoc. Prof. Ivan Diaz-Rainey; Assoc. Prof. Helen Roberts
+
+**Northern University of Malaysia**, Malaysia\
+&nbsp;&nbsp;&nbsp;&nbsp;***M.Sc. in Finance***, November 2018\
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: *Mission Drift in Microfinance Institutions of OIC Countries*\
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Yusnidah Ibrahim
+
+**University of Malaysia Perlis**, Malaysia\
+&nbsp;&nbsp;&nbsp;&nbsp;***B.Bus. (Hons) in International Business***, September 2014\
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor Thesis: *Sustainability, Outreach and Efficiency of Microfinance Institutions*
 
 
 ## Experience
