@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **University of Otago Business School**, New Zealand. My thesis title is `"Essays on Climate Finance"`, under the supervision of: 
-* [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), **University of Otago Business School**, New Zealand
-* [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html), **University of Otago Business School**, New Zealand
+I am a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **Otago Business School, University of Otago**, New Zealand. My thesis title is `"Essays on Climate Finance"`, under the supervision of: 
+* [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), **University of Otago**, New Zealand
+* [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html), **University of Otago**, New Zealand
 
 My research focuses on the connectedness of climate change and financial risk. Specifically, it involves the assessment of country-level climate vulnerability and phyiscal risk (e.g., drought, extreme temperature, flood, storm, etc.) on the microfinance institutions (MFIs). Therefore, it requires to invoke a mix of cross-discipline techniques, from advanced applied econometrics, credit risk analysis, developing new index, spatial modelling, and financial stress testing.
 
