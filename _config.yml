@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IFTEKHAR Ahmed, Ph.D. (c)"
+title                    : "IFTEKHAR Ahmed"
 title_separator          : "-"
 name                     : &name "IFTEKHAR Ahmed"
 description              : &description "personal description"
