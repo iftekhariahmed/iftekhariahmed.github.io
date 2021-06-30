@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **University of Otago Business School, New Zealand**. My thesis title is `"Essays on Climate Finance"`, under the supervision of: 
+I am a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **University of Otago Business School**, New Zealand. My thesis title is `"Essays on Climate Finance"`, under the supervision of: 
 * [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), **University of Otago Business School**, New Zealand
 * [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html), **University of Otago Business School**, New Zealand
 
