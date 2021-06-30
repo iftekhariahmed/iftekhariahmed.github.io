@@ -85,10 +85,14 @@ author:
   bio              : "University of Otago Business School"
   location         : "New Zealand"
   employer         :
-  pubmed           : "https://publons.com/researcher/1363567/iftekhar-ahmed/"
-  googlescholar    : "https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en"
+  pubmed           : 
   email            : "iftekhar.ahmed@otago.ac.nz"
-  researchgate     :  "https://www.researchgate.net/profile/Iftekhar_Ahmed2"
+  github           : "iftekhariahmed"
+  twitter          : "iftekhariahmed"
+  linkedin         : "https://www.linkedin.com/in/iftekhariahmed/"
+  orcid            : "https://orcid.org/0000-0002-9044-7185"
+  researchgate     : "https://www.researchgate.net/profile/Iftekhar_Ahmed2"
+  googlescholar    : "https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,21 +100,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iftekhariahmed"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/iftekhariahmed/"
-  orcid            : "https://orcid.org/0000-0002-9044-7185"
-  publons          : "https://publons.com/researcher/1363567/iftekhar-ahmed/"
+  publons          : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "iftekhariahmed"
   vine             :
   weibo            :
   xing             :
