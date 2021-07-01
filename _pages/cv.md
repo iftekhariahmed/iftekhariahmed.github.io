@@ -36,15 +36,19 @@ redirect_from:
 
 
 ## TEACHING EXPERIENCE
-**University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;*Ph.D.Researcher, Climate Risks in Alternative Financial Institutions*, August 2019 - Present 
-  * Explored machine-learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in  finance
-  * Developed a bottom-up financial stress test to examine the potential losses incurred by US banks across climate scenarios in their corporate loan portfolios 
-  * Analyzed the impact of climate risks on firm-level creditworthiness, credit ratings and credit default swap spreads 
- 
-&nbsp;&nbsp;&nbsp;*Research Assistant, Sea Level Rise Stranded Assets Project*, October 2018 - Present 
-  * Analyzed the price effect of 2015 June Flood on South Dunedin residential properties 
-  * Generated sea level rise flooding maps using Monte Carlo simulation in ArcGIS 
+**Otago Business School, University of Otago**, New Zealand\
+&nbsp;&nbsp;&nbsp;***Teaching Assistant***, February 2020 - Present
+  * FINC304 Financial Markets and Institutions [S1: 2020, 2021]
+  * FINC206 Corporate Finance [S2: 2020]
+  * FINC102 Business Mathematics [S2: 2020]
+
+&nbsp;&nbsp;&nbsp;***Guest Lecturer***, June 2020 [S1: 2020]
+  * Microfinance Institutions and Climate Change: Risks and Opportunities
+
+&nbsp;&nbsp;&nbsp;***Exam Supervisor***, February 2020 - Present
+
+
+## RESEARCH EXPERIENCE
 
 &nbsp;&nbsp;&nbsp;*Teaching Assistant & Private Tutor*, October 2018 - Present 
   * Acted as a teaching assistant for two tutorial sessions in 300-level class ‘Financial markets and institutions’. Prepared tutorial materials and supported students on academic problems.  
