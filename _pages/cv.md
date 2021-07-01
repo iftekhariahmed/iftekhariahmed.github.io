@@ -19,7 +19,7 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span>iftekhar.ahmed [at] otago.ac.nz | <a href="http://iftekhariahmed.github.io/">iftekhariahmed.github.io</a> | <a href="http://www.twitter.com/iftekhariahmed">@iftekhariahmed</a> | <a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">Google Scholar</a></span></p>
 
 
-## Education
+## EDUCATION
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;&nbsp;***Ph.D. in Finance***, July 2022 (expected)\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: *Essays on Climate Finance*\
