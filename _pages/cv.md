@@ -16,7 +16,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>IFTEKHAR AHMED</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span>iftekhar.ahmed [at] otago.ac.nz | <a href="http://iftekhariahmed.github.io/">iftekhariahmed.github.io</a> | <a href="http://www.twitter.com/iftekhariahmed">@iftekhariahmed</a> | <a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span>iftekhar.ahmed [at] otago.ac.nz | <a href="http://iftekhariahmed.github.io/">iftekhariahmed.github.io</a> | <a href="http://www.twitter.com/iftekhariahmed">@iftekhariahmed</a> | <a href="https://www.linkedin.com/in/iftekhariahmed/">Linkedin</a></span></p>
 
 
 ## EDUCATION
