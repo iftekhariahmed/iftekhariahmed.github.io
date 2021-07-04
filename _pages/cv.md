@@ -38,12 +38,12 @@ redirect_from:
 ## TEACHING EXPERIENCE
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Teaching Assistant***, February 2020 - Present
-  - [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
-  - [x] FINC206 Corporate Finance [S2: 2020]
-  - [x] FINC102 Business Mathematics [S2: 2020]
+    [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
+    [x] FINC206 Corporate Finance [S2: 2020]
+    [x] FINC102 Business Mathematics [S2: 2020]
 
 &nbsp;&nbsp;&nbsp;***Guest Lecturer***, June 2020 [S1: 2020]
-  - [x] Microfinance Institutions and Climate Change: Risks and Opportunities
+    [x] Microfinance Institutions and Climate Change: Risks and Opportunities
 
 &nbsp;&nbsp;&nbsp;***Exam Supervisor***, February 2020 - Present
 
