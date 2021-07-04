@@ -58,9 +58,9 @@ redirect_from:
   
 **Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, May 2020 - Present\
- ###### Administrative
+###### Administrative
   - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.\
- ###### Leadership
+###### Leadership
   - [x] CEFGroup Reading Sessions (***Convener***), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (***Convener***), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (***Organizing Committee Secretariat***), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (***Organizing Committee Member***).\
 ###### Research
   - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
