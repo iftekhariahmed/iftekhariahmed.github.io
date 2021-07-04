@@ -38,12 +38,12 @@ redirect_from:
 ## TEACHING EXPERIENCE
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Teaching Assistant***, February 2020 - Present
-    [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
-    [x] FINC206 Corporate Finance [S2: 2020]
-    [x] FINC102 Business Mathematics [S2: 2020]
+  - [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
+  - [x] FINC206 Corporate Finance [S2: 2020]
+  - [x] FINC102 Business Mathematics [S2: 2020]
 
 &nbsp;&nbsp;&nbsp;***Guest Lecturer***, June 2020 [S1: 2020]
-    [x] Microfinance Institutions and Climate Change: Risks and Opportunities
+  - [x] Microfinance Institutions and Climate Change: Risks and Opportunities
 
 &nbsp;&nbsp;&nbsp;***Exam Supervisor***, February 2020 - Present
 
@@ -57,14 +57,26 @@ redirect_from:
   - [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
   
 **Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago**, New Zealand\
-&nbsp;&nbsp;&nbsp;***Research Assistant***, May 2020 - Present 
+&nbsp;&nbsp;&nbsp;***Research Assistant***, May 2020 - Present
 ###### Administrative
   - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
 ###### Leadership
   - [x] CEFGroup Reading Sessions (***Convener***), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (***Convener***), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (***Organizing Committee Secretariat***), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (***Organizing Committee Member***).
 ###### Research
-  - [x]  Analyze climate risk to alternative financial institutions and its implications on the bottom of the pyramid.
-  - [ ]  Inclusive Green Finance and AI: Framework, Implication and Policy.
+  - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
+  - [ ]  Studies in Inclusive Green Finance and AI.
+ 
+  **Asian Research Institute of Banking and Finance**, Malaysia\
+&nbsp;&nbsp;&nbsp;***Research Assistant***, September 2017 - December 2018
+  - [x] Assist CIMB-UUM Chair Prof. Salim Rashid on analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
+ 
+ **School of Economics, Finance and Banking, Northern University of Malaysia**, Malaysia\
+&nbsp;&nbsp;&nbsp;***Research Assistant***, August 2017 - December 2018
+  - [x] : Asssit Prof. Mohd Sobri Minai on a Ministry of Higher Education funded FRGS project on *Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs*.
+
+ **Accounting Research Institute, MARA University of Technology**, Malaysia\
+&nbsp;&nbsp;&nbsp;***Research Assistant (Visiting)***, January 2017 - June 2017
+  - [x] Assist Prof. Zuraidah Mohd Sanusi on *Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment*.
  
 
 ## Technical Skills
