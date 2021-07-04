@@ -38,12 +38,12 @@ redirect_from:
 ## TEACHING EXPERIENCE
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Teaching Assistant***, February 2020 - Present
-  * FINC304 Financial Markets and Institutions [S1: 2020, 2021]
-  * FINC206 Corporate Finance [S2: 2020]
-  * FINC102 Business Mathematics [S2: 2020]
+  - [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
+  - [x] FINC206 Corporate Finance [S2: 2020]
+  - [x] FINC102 Business Mathematics [S2: 2020]
 
 &nbsp;&nbsp;&nbsp;***Guest Lecturer***, June 2020 [S1: 2020]
-  * Microfinance Institutions and Climate Change: Risks and Opportunities
+  - [x] Microfinance Institutions and Climate Change: Risks and Opportunities
 
 &nbsp;&nbsp;&nbsp;***Exam Supervisor***, February 2020 - Present
 
@@ -51,26 +51,38 @@ redirect_from:
 ## RESEARCH EXPERIENCE
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Ph.D. Researcher, Essays on Climate Finance***, August 2019 - Present 
-  * Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
-  * Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
-  * Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
-  * Essay 4: Developed a bottom-up financial stress test to analyze the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
+  - [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
+  - [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
+  - [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
+  - [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
   
 **Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, May 2020 - Present 
-  * Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
-  * Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
-
+###### Administrative
+  - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
+###### Leadership
+  - [x] CEFGroup Reading Sessions (***Convener***), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (***Convener***), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (***Organizing Committee Secretariat***), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (***Organizing Committee Member***).
+###### Research
+  - [x]  Analyze climate risk to alternative financial institutions and its implications on the bottom of the pyramid.
+  - [ ]  Inclusive Green Finance and AI: Framework, Implication and Policy.
  
 
 ## Technical Skills
-* **Programming Languages**: *Advanced* `STATA` `Eviews` `Microfit` `PLS` `AMOS` `SPSS` *Basic* `Python` `R` `ArcGIS`
-* **Data Analysis**: `Advanced Econometric analysis` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
+* **Programming Languages**: *Advanced* `STATA` `Eviews` `Microfit` `PLS` `AMOS` `SPSS` *Basic* `Python` `R` `ArcGIS` `GitHub` `LATEX`
+* **Data Analysis**: `Advanced Applied Econometrics` `Macroeconometrics` `Microeconometrics` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
 * **Finance Modelling & Equity Research**: `Bloomberg` `DataStream` `Thomson Reuters Eikon` `MIX`
-* **Miscellaneous**: *Learning* `Spatial modelling`
+* **Miscellaneous**: *Basic* `Spatial modelling`
+
+
+## Affiliations
+American Finance Association (AFA), Accounting and Finance Association of Australia and New Zealand (AFAANZ), Group for Research on Organizations and the Natural Environment (GRONEN), Operational Research Society (ORSociety).
+
 
 ## Professional Services
-**Ad-hoc Reviewer**: African Development Review, Applied Economics, Journal of Financial Economic Policy, Journal of Sustainable Finance & Investment\
-**Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | June  2014 - October 2014
+**Ad-hoc Reviewer**: African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
+
+**Students' Representative Council (MPP), University of Malaysia Perlis** | *International Students' Representative Candidate* | Academic Year  2013 - 2014
+
+**International Student Club of University of Malaysia Perlis** | Founding Committee & Treasurer | Academic Year 2012 - 2013
 
 
