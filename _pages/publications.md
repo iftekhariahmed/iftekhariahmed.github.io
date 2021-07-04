@@ -11,45 +11,40 @@ You can also find my articles on <u><a href="https://scholar.google.co.nz/citati
 
 {% include base_path %}
 
-### Predicting Corporate Carbon Footprints for Climate Risk Analyses–A Machine Learning Approach (2020) ###
----<cite>Quyen Nguyen, Ivan Diaz-Rainey, & Duminda Kuruppuarachchi</cite>
 
-This paper uses machine learning to improve the prediction of corporate emissions so that financial regulators and investors can make better decisions about climate transition risk. The need for predictions arises because only a subset of global companies report emissions. The novelty is to use machine learning rather than the conventional regression approaches and naïve models implemented by data providers. Our best-performing model is a two-step framework that applies a Meta-Elastic Net learner to combine predictions from multiple base-learners. It results in an accuracy gain based on mean absolute error of up to 30% as compared with the existing models. We find that prediction accuracy can be further improved by incorporating additional predictors (energy data) and additional firm disclosures in particular sectors (utilities and real estate) and regions (Asia and Latin America). This provides an indication of where policymakers should concentrate their efforts for greater disclosure.
+## Book Chapter
 
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3617175)
+### An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation (2021) ###
+---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, Iftekhar Ahmed, Matthew McCarten & Farhad Taghizadeh-Hesary</cite>
 
-**Recommended citation:** `Nguyen, Q., Diaz-Rainey, I. and Kuruppuarachchi, D. (2020), "Predicting Corporate Carbon Footprints for Climate Risk Analyses–A Machine Learning Approach".  USAEE Working Paper No. 20-450. Available on SSRN.`
+The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
 
-**Presentation:**
-- Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
-- Presented at the Department of Accountancy and Finance Seminar Series 2020
-- GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807085)
 
-### Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Methods Approach (2019) ###
----<cite>Quyen Nguyen, Ivan Diaz-Rainey, Tony Moore, Paul Thornes, Simon Cox, Leigh McKenzie, Leon Stirk-Wang</cite>
+**Recommended citation:** `Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2021). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation. ADBI Working Paper 1217, Available at SSRN.`
 
-Greater South Dunedin (GSD) has been identified as one of the most vulnerable areas to Climate Change-Related Flooding Hazards (CCRFH) in New Zealand, yet little is known about the magnitude of how CCRFH will impact property values. We address this issue by proposing a novel modelling strategy that links CCRFH, and in particular Sea Level Rise (SLR), to of residential property value, at fine geographical resolution. The strategy is both empirical and forward looking modelling. The empirical analysis reveals a significant negative price effect for houses associated with flooding risks in the local market (between 5.9% and 3.1%), which existed prior to the June 2015 South Dunedin flood and was exacerbated temporarily after this event. The forward modelling projections apply a “bathtub fill” approach to elevation data in a Geographical Information System (GIS) to identify the properties that will be inundated (using IPCC scenarios to 2100). Uncertainties arising from data error and long-term projection are modelled through Monte Carlo simulation. We find that, the risks of permanent inundation are currently limited and only become non-negligible in a “business-as-usual” pathway. The risks of periodic flooding, however, are strikingly large across all scenarios in the presence of extreme events. With high tides, the number of inundated properties may be as high as 39%. With extreme rainfalls, this number potentially increases to 41%. Taken together, CCFRH may affect property worth up to NZ $983 million in rateable value (37% of GSD property market). We conclude by acknowledging the limitations of our “bathtub fill” approach.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3489445)
-
-**Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., Moore T., Thornes P., Cox S., McKenzie L. and Stirk-Wang, L. (2020), "Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Methods Approach".  Working Paper. Available on SSRN.`
-
-**Presentation:**
-- GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
-- Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
-- Presented to the Planning Team of Dunedin City Council, March 2019 
-- Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
+* Forthcoming as book chapter in _**Economic Integration in Asia and Europe: Lessons and Recommended Policies**_. Tokyo: ADBI.
 
 
-### Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same? (2020) ###
----<cite>Quyen Nguyen, Ivan Diaz-Rainey, Duminda Kuruppuarachchi, Matthew McCarten, Eric K.M. Tan </cite>
+## Journal Papers
+### Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach (2021) ###
+---<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin & Md. Tareq Hossain</cite>
 
-We examine banks’ exposure to climate transition risk using loan-level data and a bottom-up methodology. We match machine learning predictions of corporate carbon footprints to syndicated loans between 2010-2018 and then aggregate these to loan portfolios of the twenty largest banks in the United States. Individual banks vary in their transition risk not only due to their exposure to the energy sectors but also due to borrowers’ carbon emission profiles from other sectors. Climate stress tests using IPCC 2019 report transition pathways reveal that the median incremental loss is minimal initially but grow towards the second half of the century. The expected loss is small relative to the loan size (0.5%) but doubles in size for the 1.5oC scenarios (1.4%-2.1%) compared to the 2oC target (0.6%-1.1%) with large tail-end risk (7.7%). Banks’ vulnerabilities are also driven by the ex-ante financial risk of their borrowers.
+In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
 
-**Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., Kuruppuarachchi, D., McCarten M. and Tan E. (2020), "Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same".  Working Paper.`
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3531819)
+
+**Recommended citation:** `Hussain, M. D., Ahmed, I., Mohiuddin, M. and Hossain, M. T. (2021), "Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreac".  Under-review. Available at SSRN.`
 
 **Presentation:**
-- Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
-- Presented at the Department of Accountancy and Finance Seminar Series 2019
+- Presented at Financial Markets and Corporate Governance Conference (virtual), La Trobe University, Melbourne, Victoria, Australia.
+
+### Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh (2021) ###
+---<cite>Mohammad Delwar Hussain & Iftekhar Ahmed</cite>
+
+This study examines the impact of governance on the double bottom line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adapt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
+
+**Recommended citation:** `Hussain, M. D. and Ahmed, I.. (2020), "Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesme".  Under-review. Available at SSRN.`
+
 
 
