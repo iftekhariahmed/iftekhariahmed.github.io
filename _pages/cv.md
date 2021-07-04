@@ -38,12 +38,12 @@ redirect_from:
 ## TEACHING EXPERIENCE
 **Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Teaching Assistant***, February 2020 - Present
-  - [x] FINC304 Financial Markets and Institutions [S1: 2020, 2021]
-  - [x] FINC206 Corporate Finance [S2: 2020]
-  - [x] FINC102 Business Mathematics [S2: 2020]
+  - FINC304 Financial Markets and Institutions [S1: 2020, 2021]
+  - FINC206 Corporate Finance [S2: 2020]
+  - FINC102 Business Mathematics [S2: 2020]
 
 &nbsp;&nbsp;&nbsp;***Guest Lecturer***, June 2020 [S1: 2020]
-  - [x] Microfinance Institutions and Climate Change: Risks and Opportunities
+  - Microfinance Institutions and Climate Change: Risks and Opportunities
 
 &nbsp;&nbsp;&nbsp;***Exam Supervisor***, February 2020 - Present
 
@@ -58,32 +58,74 @@ redirect_from:
   
 **Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago**, New Zealand\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, May 2020 - Present
-   ###### Administrative
   - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
-   ###### Leadership
   - [x] CEFGroup Reading Sessions (***Convener***), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (***Convener***), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (***Organizing Committee Secretariat***), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (***Organizing Committee Member***).
-   ###### Research
   - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
-  - [ ]  Studies in Inclusive Green Finance and AI.
+  - [ ]  Researches in Inclusive Green Finance and AI.
  
   **Asian Research Institute of Banking and Finance**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, September 2017 - December 2018
-  - [x] Assist CIMB-UUM Chair Prof. Salim Rashid on analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
+  - Assist CIMB-UUM Chair Prof. Salim Rashid on analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
  
  **School of Economics, Finance and Banking, Northern University of Malaysia**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, August 2017 - December 2018
-  - [x] : Asssit Prof. Mohd Sobri Minai on a Ministry of Higher Education funded FRGS project on *Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs*.
+  - Asssit Prof. Mohd Sobri Minai on a Ministry of Higher Education funded FRGS project on *Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs*.
 
  **Accounting Research Institute, MARA University of Technology**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant (Visiting)***, January 2017 - June 2017
-  - [x] Assist Prof. Zuraidah Mohd Sanusi on *Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment*.
+  - Assist Prof. Zuraidah Mohd Sanusi on *Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment*.
  
 
+## Book Chapter
+  - [ ] Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2020). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy
+Integration, Security and Decarbonisation. In Economic Integration in Asia and Europe: Lessons and Recommended Policies. Tokyo: ADBI. (Forthcoming).
+  - [x] A working paper on the topic is published by the Asian Development Bank Institute (ADBI), Tokyo: Japan. ADBI Working Paper No. 1217.
+
+
+## Journal Papers
+  - [ ] **Ahmed, I.**, Diaz-Rainey, I., Roberts, H. and Nguyen, D. T. T. Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability. *Under-review*.
+  - [ ] Hussain, M. D., **Ahmed, I.**, Mohiuddin, M. and Hossain, M. T. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach. *Under-review*.
+  - [ ] Ibrahim, I., Minai, M. S., Alam, M. M. and **Ahmed, I.** Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries. *Under-review*.
+  - [ ] Hussain, M. D. and **Ahmed, I.** Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh. *Journal of Islamic Accounting and
+Business Research*. (***SJR-Q3***). *RnR*.
+  - [x] **Ahmed, I.**, Ibrahim, Y. and Bhuiyan, A. B. (2021). Microfinance performance in the OIC member states - Does regulation status matter? *International Journal of
+Development and Conflict*. (***SJR-Q4, ABDC-B***). *Forthcoming*.
+  - [x] Ibrahim, Y. **Ahmed, I.** and Minai, M. S. (2018). The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC
+countries. *Economics & Sociology*, 11(2), 19-35. (***SJR-Q1***).
+  - [x] **Ahmed, I.**, Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016). Social Accountability of Microfinance Institutions in South Asian Region. *International Journal of Economics and Financial Issues*, 6(3), 824-829. (***SJR-Q3***).
+
+
+## Working Papers
+  - [x] Microfinance’s Climate Distress Risk, _with Diaz-Rainey, I. and Roberts, H._
+  - [x] Systemically Important Microfinance Institutions and Climate Change, _with Diaz-Rainey, I. and Roberts, H._
+  - [ ] Climate Stress Test of Alternative Financial Institutions, _with Diaz-Rainey, I. and Roberts, H._
+  - [x] Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies, with _Ibrahim, Y. and Minai, M. S._
+
+
+## Conference Presentations
+  - 2021: 7th International Young Finance Scholars, virtual.
+  - 2021: 3rd EU-JRC Summer School on Sustainable Finance, virtual.
+  - 2021: 25th Annual New Zealand Finance Colloquium, Tauranga, New Zealand.
+  - 2020: 1st CEFGroup Climate Finance Symposium, Dunedin, New Zealand.
+  - 2017: Sintok International Conference on Social Science and Management, Langkawi, Malaysia.
+  - 2016: 3rd Annual ECoFI Symposium, Sintok, Malaysia.
+  - 2015: Thematic Workshop on Intra Trade in the Organization of Islamic Cooperation Countries, Sintok, Malaysia.
+  - 2014: 4th International Malaysian-Ireland Join Symposium on Engineering, Science and Business, Penang, Malaysia.
+
+
+## Scholarship and Awards
+  - 2019-2022: **University of Otago Doctoral Scholarship**, University of Otago, New Zealand.
+  - 2020: **Climate and Energy Finance Group (CEFGroup) Conference Travel Award**, University of Otago, New Zealand.
+  - 2020: **He Kaupapa Hononga: Otago's Climate Change Research Network Conference Travel Award**, University of Otago, New Zealand.
+  - 2013: **Best Academic Award for _Excellence in Academics_**, University of Malaysia Perlis, Malaysia.
+  - 2012, 2014: **Dean List Award**, University of Malaysia Perlis, Malaysia.
+
+
 ## Technical Skills
-* **Programming Languages**: *Advanced* `STATA` `Eviews` `Microfit` `PLS` `AMOS` `SPSS` *Basic* `Python` `R` `ArcGIS` `GitHub` `LATEX`
-* **Data Analysis**: `Advanced Applied Econometrics` `Macroeconometrics` `Microeconometrics` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
-* **Finance Modelling & Equity Research**: `Bloomberg` `DataStream` `Thomson Reuters Eikon` `MIX`
-* **Miscellaneous**: *Basic* `Spatial modelling`
+  - **Programming Languages**: *Advanced* `STATA` `Eviews` `Microfit` `PLS` `AMOS` `SPSS` *Basic* `Python` `R` `ArcGIS` `GitHub` `LATEX`
+  - **Data Analysis**: `Advanced Applied Econometrics` `Macroeconometrics` `Microeconometrics` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
+  - **Finance Modelling & Equity Research**: `Bloomberg` `DataStream` `Thomson Reuters Eikon` `MIX`
+  - **Miscellaneous**: *Basic* `Spatial modelling`
 
 
 ## Affiliations
@@ -91,10 +133,12 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 
 
 ## Professional Services
-**Ad-hoc Reviewer**: African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
+  - **Ad-hoc Reviewer**: African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
 
-**Students' Representative Council (MPP), University of Malaysia Perlis** | *International Students' Representative Candidate* | Academic Year  2013 - 2014
+  - 2013-2014: **International Students' Representative Candidate, _Students' Representative Council (MPP)_**, University of Malaysia Perlis, Malaysia.
 
-**International Student Club of University of Malaysia Perlis** | Founding Committee & Treasurer | Academic Year 2012 - 2013
+  - 2012-2013: **Founding Committee & Treasurer, _International Student Club of University of Malaysia Perlis_**, Malaysia.
 
 
+## Referees
+***Refer to PDF***.
