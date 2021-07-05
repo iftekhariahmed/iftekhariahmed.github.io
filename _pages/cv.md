@@ -142,4 +142,4 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 
 
 ## Referees
-***Refer to PDF***.
+*Go to PDF*.
