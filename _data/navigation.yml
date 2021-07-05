@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Job Market Papers"
+    url: /jobmarketpapers/
+    
   - title: "Publications"
     url: /publications/
     
