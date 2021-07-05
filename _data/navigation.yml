@@ -3,11 +3,8 @@ main:
   - title: "About Me"
     url: 
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Job Market Papers"
-    url: /jobmarketpapers/
+  - title: "Job Market Profile"
+    url: /jobmarketprofile/
     
   - title: "Publications"
     url: /publications/
@@ -15,7 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
-   
+  - title: "CV"
+    url: /cv/   
 
 
         
