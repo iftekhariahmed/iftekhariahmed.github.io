@@ -103,11 +103,3 @@ The purpose of the study is to examine the social accountability and argue compa
 
 **Recommended citation:** `Ahmed, I., Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016), "Social Accountability of Microfinance Institutions in South Asian Region". International Journal of Economics and Financial Issues, 6(3), 824-829.`
 
-
-## Working Papers
-### 1. Microfinance’s Climate Distress Risk ###
----<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
-### 2. Systemically Important Microfinance Institutions and Climate Change ###
----<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
-### 3. Climate Stress Test of Alternative Financial Institutions ###
----<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
