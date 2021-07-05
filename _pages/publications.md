@@ -14,37 +14,100 @@ You can also find my articles on <u><a href="https://scholar.google.co.nz/citati
 
 ## Book Chapter
 
-### An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation (2021) ###
----<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, Iftekhar Ahmed, Matthew McCarten & Farhad Taghizadeh-Hesary</cite>
+### 1. An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation (2021) ###
+---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, Iftekhar Ahmed, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
 
 The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807085)
 
-**Recommended citation:** `Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2021). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation. ADBI Working Paper 1217, Available at SSRN.`
+**Recommended citation:** `Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2021). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation. ADBI Working Paper 1217, Available at SSRN. http://dx.doi.org/10.2139/ssrn.3807085`
 
 * Forthcoming as book chapter in _**Economic Integration in Asia and Europe: Lessons and Recommended Policies**_. Tokyo: ADBI.
 
 
 ## Journal Papers
-### Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach (2021) ###
----<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin & Md. Tareq Hossain</cite>
+### 1. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach ###
+---<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin and Md. Tareq Hossain</cite>
 
 In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3531819)
 
-**Recommended citation:** `Hussain, M. D., Ahmed, I., Mohiuddin, M. and Hossain, M. T. (2021), "Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreac".  Under-review. Available at SSRN.`
+**Recommended citation:** `Hussain, M. D., Ahmed, I., Mohiuddin, M. and Hossain, M. T. (2020), "Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3531819`
 
 **Presentation:**
-- Presented at Financial Markets and Corporate Governance Conference (virtual), La Trobe University, Melbourne, Victoria, Australia.
+* Presented at [**_Financial Markets and Corporate Governance Conference_**](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (virtual), La Trobe University, Melbourne, Australia.
 
-### Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh (2021) ###
----<cite>Mohammad Delwar Hussain & Iftekhar Ahmed</cite>
+### 2. Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries ###
+---<cite>Yusnidah Ibrahim, Mohd Sobri Minai, Md. Mahmudul Alam and Iftekhar Ahmed</cite>
+
+Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
+
+[Download paper here]()
+
+**Recommended citation:** `Ibrahim, I., Minai, M. S., Alam, M. M. and Ahmed, I. (2021), "Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries".`
+
+### 3. Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh ###
+---<cite>Mohammad Delwar Hussain and Iftekhar Ahmed</cite>
 
 This study examines the impact of governance on the double bottom line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adapt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
 
-**Recommended citation:** `Hussain, M. D. and Ahmed, I.. (2021), "Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesme".  Under-review. Available at SSRN.`
+**Recommended citation:** `Hussain, M. D. and Ahmed, I.. (2021), "Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3739386`
+
+* ***RnR*** in _*Journal of Islamic Accounting and Business Research*_.
+
+### 4. Microfinance performance in the OIC member states - Does regulation status matter? ###
+---<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Abul Bashar Bhuiyan</cite>
+
+Despite the emerging concern of mission drift, microfinance institutions (MFIs) in various developing nations have been commercializing and transforming into regulated financial intermediaries. However, a hidden dread is still alive until it is disclosed that the regulated MFIs are actually performing better in both of their financial and social obligations. Hence, this study aims to investigate the effect of regulatory status on the performance of MFIs, using a panel dataset containing 285 observation years from 23 OIC member states. A robust estimation of OLS techniques to the general form of cross-sectional and temporal dependency were applied. The findings do not show any significant evidence that the regulatory status affects the profitability of MFIs. However, the result indicates that the regulated MFIs decrease their outreach to female clientele. The study additionally reveals that the interest rates accelerate the profitability, but it does not necessarily harm the outreach.
+
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278426)
+
+**Recommended citation:** `Ahmed, I., Ibrahim, Y. and Bhuiyan, A. B. (2021), "Microfinance performance in the OIC member states - Does regulation status matter?". International Journal of Development and Conflict. Forthcoming`
+
+**Presentation:**
+* Presented at [**_3rd Annual ECoFI Symposium_**](http://www.sefb.uum.edu.my/ecofi/links), Northern University of Malaysia, Sintok, Malaysia.
 
 
+### 5. Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies ###
+---<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
 
+Latest development in the microfinance industry, such as; transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
+
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443)
+
+**Recommended citation:** `Ahmed, I., Ibrahim, Y. and Minai, M. S. (2018), "Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3278443`
+
+**Presentation:**
+* Presented at [**_Sintok International Conference on Social Science and Management_**](https://repo.uum.edu.my/24644/), Adya Hotel, Langkawi Island, Malaysia.
+
+### 6. The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries ###
+---<cite>Yusnidah Ibrahim, Iftekhar Ahmed and Mohd Sobri Minai</cite>
+
+Microfinance institutions (MFIs) proved to be a powerful tool for financial inclusion through developing entrepreneurial activities in rural areas. MFIs provide small-scale loans to the poor who have no access to traditional banking and financial system. However, in the pursuit to meet their social obligation, MFIs need to be financially sustainable and this sustainability largely depends on the institution’s characteristics. This study investigates the influence of MFIs’ characteristics on their financial performance, using the panel dataset of 57 microfinance institutions from the member countries of the Organisation of Islamic Cooperation (OIC). The empirical results show that, as expected, the interest rate charged and the period of existence in the market have a significant positive relationship with the financial performance of MFIs. The results also indicate that credit union and cooperatives, non-bank financial institutions and non-governmental organisations outperformed their counterparts financially. Therefore, the study concludes that charging a high rate of interest may improve institutions’ financial self-sufficiency; however, it is unable to secure MFIs' profit maximization strategy. Conversely, not-for-profit MFIs can ensure their financial viability while serving the poorest clients which is the prime goal of any microfinance program. Hence, MFIs can earn profits, but within limits, complying with their social promise at the same time.
+
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206132)
+
+**Recommended citation:** `Ibrahim, Y., Ahmed, I. and Minai, M. S. (2018), "The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries". Economics & Sociology, 11(2), 19-35. DOI:10.14254/2071-789X.2018/11-2/2, 2018`
+
+**Presentation:**
+* Presented at [**_3rd Annual ECoFI Symposium_**](http://www.sefb.uum.edu.my/ecofi/links), Northern University of Malaysia, Sintok, Malaysia.
+
+### 7. Social Accountability of Microfinance Institutions in South Asian Region ###
+---<cite>Iftekhar Ahmed, Abul Bashar Bhuiyan, Yusnidah Ibrahim, Jamaliah Said and Mohammed Fuad Mohd Salleh</cite>
+
+The purpose of the study is to examine the social accountability and argue comparison of outreach level of microfinance institutions (MFIs) in member countries of South Asian Association for Regional Cooperation. The inquiry has employed quantitative research approach to meticulous secondary data that has quantify using financial ratio and multiple regression analysis. Our results expose that gross loan portfolio (GLP) has a significant positive relation with the number of clients served. Conversely, the average loan balance per borrower per gross national income per capital and average outstanding balance have significant negative relation to the dependent variable. On the other hand, the yield on a GLP, size of MFIs and operational self-sufficiency has insignificant effect to the number of active borrowers. Eventually the study found no evidence of trade-off between profitability and outreach breadth. However, interest rate, board and ownership structure and outreach depth issue suggested for the further studies.
+
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2999222)
+
+**Recommended citation:** `Ahmed, I., Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016), "Social Accountability of Microfinance Institutions in South Asian Region". International Journal of Economics and Financial Issues, 6(3), 824-829.`
+
+
+## Working Papers
+### 1. Microfinance’s Climate Distress Risk ###
+---<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
+### 2. Systemically Important Microfinance Institutions and Climate Change ###
+---<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
+### 3. Climate Stress Test of Alternative Financial Institutions ###
+---<cite>with Ivan Diaz-Rainey and Helen Roberts</cite>
