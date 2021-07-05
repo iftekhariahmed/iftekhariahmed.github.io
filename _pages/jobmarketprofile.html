@@ -131,3 +131,28 @@ author_profile: true
 
       </li>
     </ol>
+
+
+
+
+
+      </section>
+
+</body>
+
+<script src="javascripts/button-collapsible.js"></script>
+
+<!-- Allows for icon change -->
+<script>
+    $('.collapsible').click(function() {
+        $(this).find('i').toggleClass('fa fa-plus-square fa fa-minus-square');
+    });
+</script>
+
+<script>
+    $('.card-header').click(function() {
+        $(this).find('i').toggleClass('fas fa-plus fas fa-minus');
+    });
+</script>
+
+</html>
