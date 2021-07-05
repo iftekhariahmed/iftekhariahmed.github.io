@@ -103,22 +103,23 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***SJR-Q1***).
 
 
 ## Conference Presentations
-  - 2021: 7th International Young Finance Scholars, virtual.
-  - 2021: 3rd EU-JRC Summer School on Sustainable Finance, virtual.
-  - 2021: 25th Annual New Zealand Finance Colloquium, Tauranga, New Zealand.
-  - 2020: 1st CEFGroup Climate Finance Symposium, Dunedin, New Zealand.
-  - 2017: Sintok International Conference on Social Science and Management, Langkawi, Malaysia.
-  - 2016: 3rd Annual ECoFI Symposium, Sintok, Malaysia.
-  - 2015: Thematic Workshop on Intra Trade in the Organization of Islamic Cooperation Countries, Sintok, Malaysia.
-  - 2014: 4th International Malaysian-Ireland Join Symposium on Engineering, Science and Business, Penang, Malaysia.
+  - 7th International Young Finance Scholars 2021.
+  - 3rd EU-JRC Summer School on Sustainable Finance 2021.
+  - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
+  - He Kaupapa Hononga: Otago's Climate Change Research Network Postgrad Seminar 2021, Dunedin, New Zealand.
+  - 1st CEFGroup Climate Finance Symposium 2020, Dunedin, New Zealand.
+  - Sintok International Conference on Social Science and Management 2017, Langkawi, Malaysia.
+  - 3rd Annual ECoFI Symposium 2016, Sintok, Malaysia.
+  - Thematic Workshop on Intra Trade in the Organization of Islamic Cooperation Countries 2015, Sintok, Malaysia.
+  - 4th International Malaysian-Ireland Join Symposium on Engineering, Science and Business 2014, Penang, Malaysia.
 
 
 ## Scholarship and Awards
-  - 2019-2022: **University of Otago Doctoral Scholarship**, University of Otago, New Zealand.
-  - 2020: **Climate and Energy Finance Group (CEFGroup) Conference Travel Award**, University of Otago, New Zealand.
-  - 2020: **He Kaupapa Hononga: Otago's Climate Change Research Network Conference Travel Award**, University of Otago, New Zealand.
-  - 2013: **Best Academic Award for _Excellence in Academics_**, University of Malaysia Perlis, Malaysia.
-  - 2012, 2014: **Dean List Award**, University of Malaysia Perlis, Malaysia.
+  - **University of Otago Doctoral Scholarship** 2019-2022, University of Otago, New Zealand.
+  - **Climate and Energy Finance Group (CEFGroup) Conference Travel Award** 2020, University of Otago, New Zealand.
+  - **He Kaupapa Hononga: Otago's Climate Change Research Network Conference Travel Award** 2020, University of Otago, New Zealand.
+  - **Best Academic Award for _Excellence in Academics_** 2013, University of Malaysia Perlis, Malaysia.
+  - **Dean List Award** 2012/2014, University of Malaysia Perlis, Malaysia.
 
 
 ## Technical Skills
@@ -135,9 +136,9 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 ## Professional Services
   - **Ad-hoc Reviewer**: African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
 
-  - 2013-2014: **International Students' Representative Candidate, _Students' Representative Council (MPP)_**, University of Malaysia Perlis, Malaysia.
+  - **International Students' Representative Candidate, _Students' Representative Council (MPP)_** 2013-2014, University of Malaysia Perlis, Malaysia.
 
-  - 2012-2013: **Founding Committee & Treasurer, _International Student Club of University of Malaysia Perlis_**, Malaysia.
+  - **Founding Committee & Treasurer, _International Student Club of University of Malaysia Perlis_** 2012-2013, Malaysia.
 
 
 ## Referees
