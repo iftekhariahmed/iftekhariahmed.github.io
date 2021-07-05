@@ -16,5 +16,5 @@ FINC304 Financial Markets and Institutions (S1: 2020, 2021)
 FINC206 Corporate Finance (S2: 2020)
 ======
 
-FINC102 Business Mathematics (S1: 2020)
+FINC102 Business Mathematics (S2: 2020)
 ======
