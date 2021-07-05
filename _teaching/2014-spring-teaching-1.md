@@ -1,3 +1,4 @@
+$ git rm --cached -r <dir>
 ---
 title: "Teaching experience 1"
 collection: teaching
@@ -18,6 +19,3 @@ Heading 2
 
 Heading 3
 ======
-
-
-$ git rm --cached -r <dir>
