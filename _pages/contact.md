@@ -10,13 +10,14 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;Otago Business School, University of Otago\
 &nbsp;&nbsp;&nbsp;&nbsp;60 Clyde Street, Dunedin\
 &nbsp;&nbsp;&nbsp;&nbsp;PO Box 56, Dunedin 9054, New Zealand\
+
 &nbsp;&nbsp;&nbsp;&nbsp;E-mail: iftekhar.ahmed [at] otago.ac.nz; iftekharhbs [at] gmail.com
 
 ## Follow or connect me on various web services.
 * Twitter: [iftekharIahmed](http://twitter.com/iftekharIahmed)
 * LinkedIn: [iftekhariahmed](https://www.linkedin.com/in/iftekhariahmed/)
 * Google Scholar: [author:iftekhar-ahmed](https://scholar.google.co.nz/citations?hl=en&user=OCPzU9MAAAAJ)
-* Research Gate: [Iftekhar_Ahmed2](https://www.researchgate.net/profile/Iftekhar_Ahmed2)
+* ResearchGate: [Iftekhar_Ahmed2](https://www.researchgate.net/profile/Iftekhar_Ahmed2)
 * SSRN: [Iftekhar Ahmed](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2674074)
 * Scopus: [Iftekhar Ahmed](https://https://www.scopus.com/authid/detail.uri?authorId=57209289173)
 * ORCiD: [Iftekhar Ahmed](https://https://https://orcid.org/0000-0002-9044-7185)
