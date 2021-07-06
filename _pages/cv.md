@@ -65,20 +65,20 @@ redirect_from:
  
   **Asian Research Institute of Banking and Finance**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, September 2017 - December 2018
-  - Assist CIMB-UUM Chair Prof. Salim Rashid on analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
+  - Assist CIMB-UUM Chair Prof. Salim Rashid in analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
  
  **School of Economics, Finance and Banking, Northern University of Malaysia**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, August 2017 - December 2018
-  - Asssit Prof. Mohd Sobri Minai on a Ministry of Higher Education funded FRGS project on *Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs*.
+  - Asssit Prof. Mohd Sobri Minai in a Ministry of Higher Education funded FRGS project on *Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs*.
 
  **Accounting Research Institute, MARA University of Technology**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant (Visiting)***, January 2017 - June 2017
-  - Assist Prof. Zuraidah Mohd Sanusi on *Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment*.
+  - Assist Prof. Zuraidah Mohd Sanusi in a project on *Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment*.
  
 
 ## Book Chapter
   - [ ] Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2020). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy
-Integration, Security and Decarbonisation. In Economic Integration in Asia and Europe: Lessons and Recommended Policies. Tokyo: ADBI. (Forthcoming).
+Integration, Security and Decarbonisation. In Economic Integration in Asia and Europe: Lessons and Recommended Policies. Tokyo: ADBI. (*Forthcoming*).
   - [x] A working paper on the topic is published by the Asian Development Bank Institute (ADBI), Tokyo: Japan. ADBI Working Paper No. 1217.
 
 
