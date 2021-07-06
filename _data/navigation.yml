@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
-    url: 
-    
   - title: "Job Market Profile"
-    url: /jobmarketprofile/
+    url: /profile/
     
   - title: "Publications"
-    url: /publications/
+    url: /articles/
     
   - title: "Teaching"
     url: /teaching/
