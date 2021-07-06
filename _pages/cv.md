@@ -65,7 +65,7 @@ redirect_from:
  
   **Asian Research Institute of Banking and Finance**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, September 2017 - December 2018
-  - Assist CIMB-UUM Chair Prof. Salim Rashid in analyzing *Financial and Banking sectors in Malaysia*, and case studies on  *Immigrant Entrepreneurship* and *Family-run Dual Business*.
+  - Assist CIMB-UUM Chair Prof. Salim Rashid in reserach project on *Financial and Banking sectors in Malaysia*, and case studies on *Immigrant Entrepreneurship* and *Family-run Dual Business*.
  
  **School of Economics, Finance and Banking, Northern University of Malaysia**, Malaysia\
 &nbsp;&nbsp;&nbsp;***Research Assistant***, August 2017 - December 2018
