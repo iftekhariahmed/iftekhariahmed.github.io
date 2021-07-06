@@ -9,9 +9,9 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Accountancy and Finance\
 &nbsp;&nbsp;&nbsp;&nbsp;Otago Business School, University of Otago\
 &nbsp;&nbsp;&nbsp;&nbsp;60 Clyde Street, Dunedin\
-&nbsp;&nbsp;&nbsp;&nbsp;PO Box 56, Dunedin 9054, New Zealand\
+&nbsp;&nbsp;&nbsp;&nbsp;PO Box 56, Dunedin 9054, New Zealand
 
-&nbsp;&nbsp;&nbsp;&nbsp;E-mail: iftekhar.ahmed [at] otago.ac.nz; iftekharhbs [at] gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;E-mail: iftekhar.ahmed [at] otago.ac.nz | iftekharhbs [at] gmail.com
 
 ## Follow or connect me on various web services.
 * Twitter: [iftekharIahmed](http://twitter.com/iftekharIahmed)
