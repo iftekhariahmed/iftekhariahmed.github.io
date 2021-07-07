@@ -3,15 +3,18 @@ main:
   - title: "Job Market Profile"
     url: /profile/
     
+  - title: "CV"
+    url: /cv/   
+    
   - title: "Publications"
     url: /articles/
     
   - title: "Teaching"
     url: /teaching/
     
-  - title: "CV"
-    url: /cv/   
-
+  - title: "News"
+    url: /newsroom/   
+    
   - title: "Contact"
     url: /contact/   
         
