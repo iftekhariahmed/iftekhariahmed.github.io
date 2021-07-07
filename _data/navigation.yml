@@ -3,9 +3,6 @@ main:
   - title: "Job Market Profile"
     url: /profile/
     
-  - title: "CV"
-    url: /cv/   
-    
   - title: "Publications"
     url: /articles/
     
@@ -14,6 +11,9 @@ main:
     
   - title: "News"
     url: /newsroom/   
+        
+  - title: "CV"
+    url: /cv/   
     
   - title: "Contact"
     url: /contact/   
