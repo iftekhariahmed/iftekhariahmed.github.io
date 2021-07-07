@@ -9,8 +9,6 @@ My Ph.D. paper is accepted for presentation at the 3rd Summer School on Sustaina
 
 {% include base_path %}
 
-{% raw %}
-<button onclick="window.open('/files/3rd_jrc_summer_school_on_sustainable_finance_programme.pdf')">See programme here</button>
-{% endraw %}
+<a href="iftekhariahmed.github.io/files/3rd_jrc_summer_school_on_sustainable_finance_programme.pdf">See full programme</a>
 
 ![](/images/3rd_jrc.png)
