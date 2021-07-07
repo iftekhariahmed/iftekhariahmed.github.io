@@ -1,15 +1,15 @@
 ---
 layout: archive
-permalink: /news/
 title: "News"
+permalink: /news/
 author_profile: true
 redirect_from:
-  - /news/
+  - wordpress/news/
 ---
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for news in site.news %}
+{% for post in site.news %}
   {% capture year %}{{ news.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year and news.visible != 'false' %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
