@@ -12,3 +12,5 @@ My Ph.D. paper is accepted for presentation at the 3rd Summer School on Sustaina
 {% raw %}
 <button onclick="window.open('/files/3rd_jrc_summer_school_on_sustainable_finance_programme.pdf')">See programme here</button>
 {% endraw %}
+
+![](../images/3rd_jrc.png)
