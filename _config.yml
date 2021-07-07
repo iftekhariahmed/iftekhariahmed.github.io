@@ -117,10 +117,6 @@ author:
   youtube          :
   wikipedia        :
 
-<head>
-	<!-- Favicon head tag -->
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-</head>
 
 # Reading Files
 include:
