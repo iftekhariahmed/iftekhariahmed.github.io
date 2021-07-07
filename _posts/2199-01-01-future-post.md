@@ -1,3 +1,4 @@
+$ git rm --cached -r <dir>
 ---
 title: 'Future Blog Post'
 date: 2199-01-01
