@@ -3,6 +3,8 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
@@ -12,3 +14,6 @@ author_profile: true
   {% if year != written_year and post.visible != 'false' %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
