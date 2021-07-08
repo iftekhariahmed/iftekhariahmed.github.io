@@ -1,5 +1,5 @@
 ---
-title: Presentations at the 25th Annual New Zealand Finance Colloquium
+title: Presentation at the 25th Annual New Zealand Finance Colloquium
 published: 2021-02-12
 excerpt: "For details"
 permalink: /news/2021/02/25th-nzfc/ 
