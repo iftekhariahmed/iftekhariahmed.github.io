@@ -1,5 +1,5 @@
 ---
-title: Presentations at the 3rd JRC Summer School on Sustainable Finance
+title: Presentation at the 3rd JRC Summer School on Sustainable Finance
 published: 2021-07-06
 excerpt: "For details"
 permalink: /news/2021/07/3rd-jrc-summer-school/ 
