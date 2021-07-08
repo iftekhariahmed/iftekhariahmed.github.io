@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About me
 Hi! I am Iftekhar, a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **Otago Business School, University of Otago, New Zealand**. My thesis title is `Essays on Climate Finance`, under the supervision of: 
 * [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), **University of Otago**, New Zealand
