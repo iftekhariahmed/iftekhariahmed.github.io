@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IFTEKHAR Ahmed"
+title                    : "Iftekhar Ahmed"
 title_separator          : "-"
-name                     : &name "IFTEKHAR Ahmed"
+name                     : &name "IFTEKHAR AHMED"
 description              : &description "personal description"
 url                      : https://iftekhariahmed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
