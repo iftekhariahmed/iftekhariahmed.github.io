@@ -103,12 +103,12 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***SJR-Q1***).
 
 
 ## Conference Presentations
-  - 7th International Young Finance Scholars' Conference 2021.
-  - 3rd JRC Summer School on Sustainable Finance 2021.
+  - 7th International Young Finance Scholars' Conference 2021, online event.
+  - 3rd JRC Summer School on Sustainable Finance 2021, online event.
   - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
   - He Kaupapa Hononga: Otago's Climate Change Research Network Postgrad Seminar 2021, Dunedin, New Zealand.
   - 1st CEFGroup Climate Finance Symposium 2020, Dunedin, New Zealand.
-  - Sintok International Conference on Social Science and Management 2017, Langkawi, Malaysia.
+  - Sintok International Conference on Social Science and Management 2017, Langkawi Island, Malaysia.
   - 3rd Annual ECoFI Symposium 2016, Sintok, Malaysia.
   - Thematic Workshop on Intra Trade in the Organization of Islamic Cooperation Countries 2015, Sintok, Malaysia.
   - 4th International Malaysian-Ireland Join Symposium on Engineering, Science and Business 2014, Penang, Malaysia.
