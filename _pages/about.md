@@ -19,3 +19,5 @@ Prior to joining the Ph.D. program, I have several years of experience in academ
 `Finance` is my specialty, `Development` is my enthusiasm. I look into finance through the lens of development. I try to understand how financial activities and intermediates are not only relating to portfolio and profit, but also can be relatable to people, planet and prosperity. My policy oriented works have significant implications for the people at the bottom of the pyramid--the most vulnerable. In addition, I have been working as a teaching assistant for several 100, 200 and 300 level finance courses since early 2020, for both in-person and online students at the **Otago Business School**. This has became an additional skill of course management and teaching during the unprecedented times.
 
 `Data science` is my emerging passion. I am aspired to learn machine learning algorithm and data analytic techniques in the decision making process. Apart from my Ph.D. research, I have been learning to write codes and build algorithms from scratch.
+
+![](/images/otago_1.jpg)
