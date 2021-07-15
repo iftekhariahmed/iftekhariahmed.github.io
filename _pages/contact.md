@@ -23,3 +23,5 @@ author_profile: true
 * ORCiD: [Iftekhar Ahmed](https://https://https://orcid.org/0000-0002-9044-7185)
 * Publons: [Iftekhar Ahmed](https://publons.com/researcher/1363567/iftekhar-ahmed/)
 * OBS-Otago: [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/staff/postgraduate/index.html), [CEFGroup](https://blogs.otago.ac.nz/cefg/post-graduate-students/)
+
+![](/images/otago_2.ipg)
