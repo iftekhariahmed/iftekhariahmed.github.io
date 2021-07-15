@@ -24,4 +24,4 @@ author_profile: true
 * Publons: [Iftekhar Ahmed](https://publons.com/researcher/1363567/iftekhar-ahmed/)
 * OBS-Otago: [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/staff/postgraduate/index.html), [CEFGroup](https://blogs.otago.ac.nz/cefg/post-graduate-students/)
 
-![](/images/otago_2.ipg)
+![](/images/otago_2.jpg)
