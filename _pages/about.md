@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Iftekhar, a Ph.D. candidate in Finance at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **Otago Business School, University of Otago, New Zealand**. My thesis title is `Essays on Climate Finance` under the supervision of CEFGroup's Director [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html) and Deputy-Director [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html).
+Hi! I am Iftekhar, a Ph.D. candidate in Finance (*climate finance*) at the Climate and Energy Finance Group [(CEFGroup)](https://blogs.otago.ac.nz/cefg/about-us/), **Otago Business School, University of Otago, New Zealand**. My thesis title is `Essays on Climate Finance` under the supervision of CEFGroup's Director [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html) and Deputy-Director [Associate Professor Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html).
 
 My research focuses on the connectedness of climate change, financial risk, and corporate sustainability. Specifically, it involves the assessment of country-level climate vulnerability and physical risk (e.g., drought, extreme temperature, flood, sea level rise, storm, etc.) on the social enterprises, hybrid organizations, rural banks and cooperatives, such as microfinance institutions (MFIs). Therefore, it requires to invoke a mix of cross-discipline techniques, from advanced applied econometrics, credit risk analysis, developing new index, spatial modelling, and financial stress testing.
 
