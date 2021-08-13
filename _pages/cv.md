@@ -21,17 +21,17 @@ redirect_from:
 
 ## EDUCATION
 **Otago Business School, University of Otago**, New Zealand\
-&nbsp;&nbsp;&nbsp;&nbsp;***Ph.D. in Finance***, July 2022 (expected)\
+&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. in Finance**, July 2022 (expected)\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: *Essays on Climate Finance*\
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisors: Assoc. Prof. Ivan Diaz-Rainey & Assoc. Prof. Helen Roberts
 
 **Northern University of Malaysia**, Malaysia\
-&nbsp;&nbsp;&nbsp;&nbsp;***M.Sc. in Finance***, November 2018\
+&nbsp;&nbsp;&nbsp;&nbsp;**M.Sc. in Finance**, November 2018\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: *Mission Drift in Microfinance Institutions of OIC Countries*\
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Yusnidah Ibrahim
 
 **University of Malaysia Perlis**, Malaysia\
-&nbsp;&nbsp;&nbsp;&nbsp;***B.Bus. (Hons) in International Business***, September 2014\
+&nbsp;&nbsp;&nbsp;&nbsp;**B.Bus. (Hons) in International Business**, September 2014\
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor Thesis: *Sustainability, Outreach and Efficiency of Microfinance Institutions*
 
 
