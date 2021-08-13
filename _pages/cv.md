@@ -103,8 +103,8 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR-Q1***).
 
 
 ## Conference Presentations
-  - 7th International Young Finance Scholar's Conference 2021, online event.
-  - 3rd JRC Summer School on Sustainable Finance 2021, online event.
+  - 7th International Young Finance Scholar's Conference 2021 (online event), Oxford, UK.
+  - 3rd JRC Summer School on Sustainable Finance 2021 (online event), Brussels, Belgium.
   - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
   - He Kaupapa Hononga: Otago's Climate Change Research Network Postgrad Seminar 2021, Dunedin, New Zealand.
   - 1st CEFGroup Climate Finance Symposium 2020, Dunedin, New Zealand.
