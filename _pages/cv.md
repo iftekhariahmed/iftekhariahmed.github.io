@@ -87,12 +87,12 @@ Integration, Security and Decarbonisation. In Economic Integration in Asia and E
   - [ ] Hussain, M. D., **Ahmed, I.**, Mohiuddin, M. and Hossain, M. T. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach. *Under-review*.
   - [ ] Ibrahim, I., Minai, M. S., Alam, M. M. and **Ahmed, I.** Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries. *Under-review*.
   - [ ] Hussain, M. D. and **Ahmed, I.** Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh. *Journal of Islamic Accounting and
-Business Research*. (***SJR-Q3***). *RnR*.
+Business Research*. (***Scopus, SJR-Q3***). *RnR*.
   - [x] **Ahmed, I.**, Ibrahim, Y. and Bhuiyan, A. B. (2021). Microfinance performance in the OIC member states - Does regulation status matter? *International Journal of
-Development and Conflict*. (***SJR-Q4, ABDC-B***). *Forthcoming*.
+Development and Conflict*, 11(1), 1-23. (***Scopus, ABDC-B***).
   - [x] Ibrahim, Y. **Ahmed, I.** and Minai, M. S. (2018). The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC
-countries. *Economics & Sociology*, 11(2), 19-35. (***SJR-Q1***).
-  - [x] **Ahmed, I.**, Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016). Social Accountability of Microfinance Institutions in South Asian Region. *International Journal of Economics and Financial Issues*, 6(3), 824-829. (***SJR-Q3***).
+countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR-Q1***).
+  - [x] **Ahmed, I.**, Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016). Social Accountability of Microfinance Institutions in South Asian Region. *International Journal of Economics and Financial Issues*, 6(3), 824-829. (***Scopus, SJR-Q3***).
 
 
 ## Working Papers
