@@ -134,7 +134,7 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 
 
 ## Professional Services
-  - **Ad-hoc Reviewer**: African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
+  - **Ad-hoc Reviewer**: Accounting & Finance, African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
 
   - **International Students' Representative Candidate, _Students' Representative Council (MPP)_** 2013-2014, University of Malaysia Perlis, Malaysia.
 
