@@ -15,4 +15,4 @@ The chapter was written by CEFGroup Director [Associate Professor Ivan Diaz-Rain
 
 <a href="https://iftekhariahmed.github.io/files/7th_iyfs_conference_programme.pdf">See full programme</a>
 
-![](/images/adbi_book1.JPG)(/images/adbi_book1.1.JPG)
+![](/images/adbi_book1.JPG)
