@@ -13,6 +13,6 @@ The chapter was written by CEFGroup Director [Associate Professor Ivan Diaz-Rain
 
 {% include base_path %}
 
-<a href="https://iftekhariahmed.github.io/files/7th_iyfs_conference_programme.pdf">See full programme</a>
+Get a free copy from [here](https://www.adb.org/publications/economic-integration-asia-europe-lessons-policies).
 
-![](/images/adbi_book1.JPG)
+![](/images/adbi_book1.JPG) ![](/images/adbi_book1.1.JPG)
