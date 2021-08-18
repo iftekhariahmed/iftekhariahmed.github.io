@@ -5,12 +5,12 @@ excerpt: "For details"
 permalink: /news/2021/08/adbi-book-chapter/ 
 ---
 
-The chapter **An Energy Policy for the ASEAN? Lessons from the EU’s Experience on Energy Integration, Security, and Decarbonizatio** (pp. 563-592) has just been published in the book titled **Economic Integration in Asia and Europe: Lessons and Policies** published online by the [Asian Development Bank Institute](https://www.adb.org/adbi/main).
+The chapter **An Energy Policy for the Association of Southeast Asian Nations? Lessons from the European Union’s Experience on Energy Integration, Security, and Decarbonizatio** (pp. 563-592) has just been published online in the book titled **Economic Integration in Asia and Europe: Lessons and Policies** by the [Asian Development Bank Institute](https://www.adb.org/adbi/main).
 
-The chapter is co-authored with CEFGroup Director [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), Dr Daniel Tulloch (Principal Analysis, Ministry for the Environment) and Dr Matthew McCarten (Spatial Finance Lead, University of Oxford), as well as Associate Professor Farhad Taghizadeh-Hesary (Tokai University, Japan).
+The chapter was co-written with CEFGroup Director [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), [Dr Daniel Tulloch](https://www.linkedin.com/in/dtulloch/?originalSubdomain=nz) (Principal Analysis, Ministry for the Environment) and [Dr Matthew McCarten](https://www.smithschool.ox.ac.uk/people/mmccarten.html) (Spatial Finance Lead, University of Oxford), and [Associate Professor Farhad Taghizadeh-Hesary](https://www.u-tokai.ac.jp/facultyguide/faculty/4427/en/) (Tokai University, Japan).
 
 {% include base_path %}
 
-Get a free copy from [here](https://www.adb.org/publications/economic-integration-asia-europe-lessons-policies).
+Get a free copy [here](https://www.adb.org/publications/economic-integration-asia-europe-lessons-policies).
 
 ![](/images/adbi_book1.JPG)![](/images/adbi_book1.1.JPG)
