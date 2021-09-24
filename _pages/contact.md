@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "CONTACT"
 excerpt: "Contact me"
 author_profile: true
 ---
