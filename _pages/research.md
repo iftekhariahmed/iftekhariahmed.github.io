@@ -101,5 +101,5 @@ The purpose of the study is to examine the social accountability and argue compa
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2999222)
 
-**Recommended citation:** `Ahmed, I., Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016), "Social Accountability of Microfinance Institutions in South Asian Region". International Journal of Economics and Financial Issues, 6(3), 824-829.`
+**Recommended citation:** `Ahmed, I., Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016), "Social Accountability of Microfinance Institutions in South Asian Region". International Journal of Economics and Financial Issues, 6(3), 824-829.` 
 
