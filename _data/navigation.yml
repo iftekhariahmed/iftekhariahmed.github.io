@@ -1,21 +1,18 @@
 # main links links
-main:
-  - title: "Job Market Profile"
-    url: /profile/
+main:    
+  - title: "RESEARCH"
+    url: /RESEARCH/
     
-  - title: "Publications"
-    url: /articles/
-    
-  - title: "Teaching"
+  - title: "TEACHING"
     url: /teaching/
     
-  - title: "News"
+  - title: "NEWS"
     url: /news/   
         
   - title: "CV"
     url: /cv/   
     
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact/   
         
 
