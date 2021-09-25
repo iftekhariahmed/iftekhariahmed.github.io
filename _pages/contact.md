@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact me"
+excerpt: ""
 author_profile: true
 ---
 ## Mailing address
