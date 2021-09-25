@@ -14,7 +14,7 @@ I am currently working with [Ivan Diaz-Rainey](https://www.otago.ac.nz/accountan
 
 I have been also providing administrative and technical support to CEFGroup. As part of this, I helped organize several events, such as CEFGroup Research Seminars, [1st CEFGroup Climate Finance Symposium](https://blogs.otago.ac.nz/cefg/cefgroup-past-events/call-for-papers-1st-cefgroup-climate-finance-symposium/), and [3rd GRASFI](https://www.susfinalliance2020.org/) side event on [Climate Finance in Asia and Australasia](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/).
 
-Prior to joining the University of Otago, I gained research experience at the **Asian Research Institute of Banking and Finance** and **Northern University of Malaysia** on several funded research projects. For example, I worked on a **Ministry of Higher Education (Malaysia)** funded project on MFI’s mission drifts in the ASEAN region. I also hold a M.Sc. in Finance from Northern University of Malaysia and visited MARA University of Technology during the program.
+Prior to joining the University of Otago, I gained research experience at the **Asian Research Institute of Banking and Finance** and **Northern University of Malaysia** on several funded research projects. For example, I worked on a **Ministry of Higher Education (Malaysia)** funded project on MFI’s mission drifts in the ASEAN region. I also hold a M.Sc. in Finance from Northern University of Malaysia and visited **MARA University of Technology** during the program.
 
 My research interests lie in financial economics of climate change, sustainable finance, financial markets and institutions.
 
