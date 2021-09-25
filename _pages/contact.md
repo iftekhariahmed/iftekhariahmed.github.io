@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: ""
+title: "Contact"
 excerpt: ""
 author_profile: true
 ---
@@ -14,14 +14,12 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;E-mail| iftekhar.ahmed [at] otago.ac.nz | iftekharhbs [at] gmail.com
 
 ## Follow or connect me on various web services.
-* Twitter: [iftekharIahmed](http://twitter.com/iftekharIahmed)
+* Twitter: [@iftekharIahmed](http://twitter.com/iftekharIahmed)
 * LinkedIn: [iftekhariahmed](https://www.linkedin.com/in/iftekhariahmed/)
 * Google Scholar: [author:iftekhar-ahmed](https://scholar.google.co.nz/citations?hl=en&user=OCPzU9MAAAAJ)
 * ResearchGate: [Iftekhar_Ahmed2](https://www.researchgate.net/profile/Iftekhar_Ahmed2)
-* SSRN: [Iftekhar Ahmed](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2674074)
-* Scopus: [Iftekhar Ahmed](https://www.scopus.com/authid/detail.uri?authorId=57209289173)
-* ORCiD: [Iftekhar Ahmed](https://https://orcid.org/0000-0002-9044-7185)
-* Publons: [Iftekhar Ahmed](https://publons.com/researcher/1363567/iftekhar-ahmed/)
+* SSRN Author Page: [2674074](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2674074)
+* Scopus Author ID: [57209289173](https://www.scopus.com/authid/detail.uri?authorId=57209289173)
+* ORCiD: [0000-0002-9044-7185](https://https://orcid.org/0000-0002-9044-7185)
+* Publons: [P-4286-2015](https://publons.com/researcher/1363567/iftekhar-ahmed/)
 * OBS-Otago: [CEFGroup](https://blogs.otago.ac.nz/cefg/post-graduate-students/) & [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/staff/postgraduate/index.html)
-
-
