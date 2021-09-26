@@ -13,6 +13,7 @@ I have been working as a teaching assistant for 100, 200 and 300 level finance c
 ### FINC304 Financial Markets and Institutions 
 [S1: 2020](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC304#2022) : In-person and Online (due to COVID-19).
 [S1: 2021](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC304#2022) : In-person.
+
 ======
 
 FINC206 Corporate Finance [S2: 2020]
