@@ -10,7 +10,7 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 {% include base_path %}
 
 ## Book Chapter
-Diaz-Rainey, I., Tulloch, D. J., <b>Ahmed, I.</b>, McCarten, M. and Taghizadeh-Hesary, F. (2020). An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [<u>**[Link](https://www.researchgate.net/profile/Iftekhar_Ahmed2/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization/links/6125dbef0c2bfa282a6b5e26/An-Energy-Policy-for-the-Association-of-Southeast-Asian-Nations-Lessons-from-the-European-Unions-Experience-on-Energy-Integration-Security-and-Decarbonization.pdf)**</u>]
+Diaz-Rainey, I., Tulloch, D. J., <b>Ahmed, I.</b>, McCarten, M. and Taghizadeh-Hesary, F. (2020). An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [<u></u>**[Link](https://www.researchgate.net/profile/Iftekhar_Ahmed2/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization/links/6125dbef0c2bfa282a6b5e26/An-Energy-Policy-for-the-Association-of-Southeast-Asian-Nations-Lessons-from-the-European-Unions-Experience-on-Energy-Integration-Security-and-Decarbonization.pdf)**]
 
 ## Working Paper
 
