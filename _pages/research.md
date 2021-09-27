@@ -11,36 +11,47 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 {% include base_path %}
 
-Working Paper
-===
+## Working Paper
+
 ### Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability, *[ `Under Rewiew` ]*
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey, Helen Roberts and Dung Thuy Thi Nguyen</cite>
 
 **Abstract.** This study investigates the association between climate vulnerability, geographic expansion and credit risk in microfinance institution’s (MFIs) loan portfolios. It is motivated by inconclusive evidence concerning the climate vulnerability-bank risk nexus and the geographic expansion-bank risk nexus. Applying system generalized method of moments (GMM) to a sample of global MFIs over the period 1999-2019, we report evidence that climate vulnerability and geographic expansion increase MFI credit risk. The risk is more pronounced for non-shareholder-owned MFIs compared to shareholder-owned MFIs. This suggests MFI expansion into climate prone regions is curtailed in the case of shareholder-owned MFIs to minimize credit risk, overshadowing the microfinance mission to provide banking services to the poorest and the most vulnerable. In addition, we report evidence that climate vulnerability moderates the consequences of geographic diversification in the microfinance industry.
 
-***Conference*** _presented at the IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020)._\
-***Seminar*** _presentation at the He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020)._
+*Conference presented at the IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).*\
+*Seminar presentation at the He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
 
 ### Systemically Important Microfinance Institutions in Climate Change Scenarios
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** The purpose of this study is to estimate and apply new measures that identify systemically important microfinance institutions (SIMFIs) in the context of climate change physical risk. The growing threat of large scale destruction and death from extreme climate events threaten the existence of MFIs, spelling major disruption to highly populated developing economies. We argue that the conventional indicators-based approach and calibrated-to-size approach of systemic importance used by banks over-control for asset-size weight making them an inappropriate measure for MFIs. Instead, we propose that asset-size weights be replaced by outreach-size weights to identify systemically important MFIs and use these new measures to determine MFI exposure to climate change. We report systemically important MFIs in the context of climate change at both the global and domestic level.
 
-***Seminar*** _presentation at the University of Otago/Accountancy & Finance (March 2020)._
+*Seminar presentation at the University of Otago/Accountancy & Finance (March 2020).*
 
 ### Microfinance's Climate Distress Risk
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** Using a global dataset of 3,114 microfinance institutions (MFIs) from 124 countries covering the period 1999-2019, this research suggests that MFIs are generally significantly affected by climate-induced risk. Specifically, the findings show that climate-related catastrophes have negative consequences on microfinance’s capital adequacy, asset quality, earnings, and social mission. However, we find limited or no evidence that climate events affect MFIs’ managerial qualities and liquidity. 
 
-***Seminar*** _presentation at the University of Otago/PhD Workshop (June 2021)._
+*Seminar presentation at the University of Otago/PhD Workshop (June 2021).*
 
 ### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `Revise & Resubmit, JIABR` ]*
 ---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
 
 **Abstract.** This study examines the impact of governance on the double bottom-line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions, and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adopt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
 
-### 
+### [Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3531819), *[ `Under Rewiew` ]*
+---<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin and Md. Tareq Hossain</cite>
+
+**Abstract.** In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
+
+*Conference presentation at the [Financial Markets and Corporate Governance Conference](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (April, 2021).
+
+### Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries, *[ `Under Rewiew` ]*
+---<cite>Yusnidah Ibrahim, Mohd Sobri Minai, Md. Mahmudul Alam and <b>Iftekhar Ahmed</b></cite>
+
+**Abstract.** Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
+
 
 
 Book Chapter
@@ -59,22 +70,9 @@ The European Union (EU) has redefined the energy sphere in Europe over the last 
 
 
 ## Journal Papers
-### 1. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach ###
----<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin and Md. Tareq Hossain</cite>
 
-In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
 
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3531819)
 
-**Recommended citation:** `Hussain, M. D., Ahmed, I., Mohiuddin, M. and Hossain, M. T. (2020), "Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3531819`
-
-**Presentation:**
-* Presented at [**_Financial Markets and Corporate Governance Conference_**](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (virtual), La Trobe University, Melbourne, Australia.
-
-### 2. Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries ###
----<cite>Yusnidah Ibrahim, Mohd Sobri Minai, Md. Mahmudul Alam and Iftekhar Ahmed</cite>
-
-Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
 
 Download paper here
 
