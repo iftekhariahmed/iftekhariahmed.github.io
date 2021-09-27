@@ -5,12 +5,12 @@ main:
     
   - title: "TEACHING"
     url: /teaching/
+            
+  - title: "CV"
+    url: /cv/   
     
   - title: "NEWS"
     url: /news/   
-        
-  - title: "CV"
-    url: /cv/   
     
   - title: "CONTACT"
     url: /contact/   
