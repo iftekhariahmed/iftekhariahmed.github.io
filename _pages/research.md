@@ -12,14 +12,14 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 ## <u>Book Chapter</u>
 Diaz-Rainey, Ivan, Tulloch, Daniel J., <b>Ahmed, Iftekhar</b>, McCarten, Matthew and Taghizadeh-Hesary, Farhad, 2021. An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [**[Link](https://www.researchgate.net/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization)**]
 
-## Peer Rewiewed Publications
+## <u>Peer Rewiewed Publications</u>
 <b>Ahmed, Iftekhar</b>, Ibrahim, Yusnidah and Bhuiyan, Abul Bashar, 2021. Microfinance performance in the OIC member states - Does regulation status matter? _International Journal of Development and Conflict, 11(1)_, 1-23. [**[Link](https://www.researchgate.net/publication/329254693_Microfinance_Performance_in_the_OIC_Member_States_-_Does_Regulation_Status_Matter)**]
 
 Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries. _Economics & Sociology, 11(2)_, 19-35. [**[Link](https://www.researchgate.net/publication/326342825_The_Influence_of_Institutional_Characteristics_on_Financial_Performance_of_Microfinance_Institutions_in_the_OIC_Countries)**]
 
 <b>Ahmed, Iftekhar</b>, Bhuiyan, Abul Bashar, Ibrahim, Yusnidah, Said, Jamaliah and Salleh, Mohd Fuad, 2016. Social Accountability of Microfinance Institutions in South Asian Region. _International Journal of Economics and Financial Issues, 6(3)_, 824-829. [**[Link](https://www.researchgate.net/publication/307318911_Social_Accountability_of_Microfinance_Institutions_in_South_Asian_Region)**]
 
-## Working Paper
+## <u>Working Paper</u>
 
 ### Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability, *[ `Under Rewiew` ]*
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey, Helen Roberts and Dung Thuy Thi Nguyen</cite>
