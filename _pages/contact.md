@@ -11,6 +11,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;60 Clyde Street, Dunedin\
 &nbsp;&nbsp;&nbsp;&nbsp;PO Box 56, Dunedin 9054, New Zealand
 
-&nbsp;&nbsp;&nbsp;&nbsp;**E-mail**: `iftekhar.ahmed [at] otago.ac.nz` and `iftekharhbs [at] gmail.com`
+&nbsp;&nbsp;&nbsp;&nbsp;**E-mail**: **`iftekhar.ahmed [at] otago.ac.nz`** and **`iftekharhbs [at] gmail.com`**
 
 ![](../images/cefgroup_logo.jpg)
