@@ -17,9 +17,10 @@ Current Working Paper
 ---<cite>Iftekhar Ahmed, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** This study investigates the association between climate vulnerability, geographic expansion and credit risk in microfinance institution’s (MFIs) loan portfolios. It is motivated by inconclusive evidence concerning the climate vulnerability-bank risk nexus and the geographic expansion-bank risk nexus. Applying system generalized method of moments (GMM) to a sample of global MFIs over the period 1999-2019, we report evidence that climate vulnerability and geographic expansion increase MFI credit risk. The risk is more pronounced for non-shareholder-owned MFIs compared to shareholder-owned MFIs. This suggests MFI expansion into climate prone regions is curtailed in the case of shareholder-owned MFIs to minimize credit risk, overshadowing the microfinance mission to provide banking services to the poorest and the most vulnerable. In addition, we report evidence that climate vulnerability moderates the consequences of geographic diversification in the microfinance industry.\
-*Paper presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).\
-*Seminer presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (June 2020).
+*Paper presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).*\
+*Seminer presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (June 2020).*
 
+### 
 
 Book Chapter
 ===
