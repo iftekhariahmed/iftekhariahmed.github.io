@@ -51,10 +51,10 @@ redirect_from:
 ## <u>RESEARCH EXPERIENCE</u>
 **[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
 &nbsp;&nbsp;&nbsp;**Ph.D. Researcher, Essays on Climate Finance**, August 2019 - Present 
-  - [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
-  - [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
-  - [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
-  - [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
+  [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
+  [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
+  [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
+  [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
   
 **[Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago, New Zealand](https://blogs.otago.ac.nz/cefg/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, May 2020 - Present
