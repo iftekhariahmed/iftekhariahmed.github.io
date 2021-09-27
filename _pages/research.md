@@ -26,8 +26,8 @@ Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influ
 
 **Abstract.** This study investigates the association between climate vulnerability, geographic expansion and credit risk in microfinance institution’s (MFIs) loan portfolios. It is motivated by inconclusive evidence concerning the climate vulnerability-bank risk nexus and the geographic expansion-bank risk nexus. Applying system generalized method of moments (GMM) to a sample of global MFIs over the period 1999-2019, we report evidence that climate vulnerability and geographic expansion increase MFI credit risk. The risk is more pronounced for non-shareholder-owned MFIs compared to shareholder-owned MFIs. This suggests MFI expansion into climate prone regions is curtailed in the case of shareholder-owned MFIs to minimize credit risk, overshadowing the microfinance mission to provide banking services to the poorest and the most vulnerable. In addition, we report evidence that climate vulnerability moderates the consequences of geographic diversification in the microfinance industry.
 
-*Conference presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).*\
-*Seminar presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
+*Conference presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July 2021), 3rd JRC Summer School on Sustainable Finance (July 2021), 25th Annual New Zealand Finance Colloquium (February 2021), 1st CEFGroup Climate Finance Symposium (December 2020).*\
+*Seminar presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
 
 ### Systemically Important Microfinance Institutions in Climate Change Scenarios
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
@@ -48,7 +48,7 @@ Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influ
 
 **Abstract.** Latest development in the microfinance industry, such as transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
 
-*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December, 2017)*.
+*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December 2017)*.
 
 ### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `R&R, JIABR` ]*
 ---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
