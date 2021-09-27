@@ -20,23 +20,23 @@ redirect_from:
 
 
 ## EDUCATION
-**Otago Business School, University of Otago, New Zealand**\
+**[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
 &nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. in Finance**, July 2022 (expected)\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: Essays on Climate Finance\
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisors: Assoc. Prof. Ivan Diaz-Rainey & Assoc. Prof. Helen Roberts
 
-**Northern University of Malaysia, Malaysia**\
+**[Northern University of Malaysia, Malaysia](http://www.sefb.uum.edu.my/)**\
 &nbsp;&nbsp;&nbsp;&nbsp;**M.Sc. in Finance**, November 2018\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: Mission Drift in Microfinance Institutions of OIC Countries\
 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. Yusnidah Ibrahim
 
-**University of Malaysia Perlis, Malaysia**\
+**[University of Malaysia Perlis, Malaysia](https://www.unimap.edu.my/index.php/en/)**\
 &nbsp;&nbsp;&nbsp;&nbsp;**B.Bus. (Hons) in International Business**, September 2014\
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor Thesis: Sustainability, Outreach and Efficiency of Microfinance Institutions
 
 
 ## TEACHING EXPERIENCE
-**Otago Business School, University of Otago**, New Zealand\
+**[Department of Accountancy & Finance, University of Otago, New Zealand](https://www.otago.ac.nz/accountancyfinance/index.html)**\
 &nbsp;&nbsp;&nbsp;**Teaching Assistant**, February 2020 - Present
   - FINC304 Financial Markets and Institutions [S1: 2020, 2021]
   - FINC206 Corporate Finance [S2: 2020]
@@ -49,31 +49,31 @@ redirect_from:
 
 
 ## RESEARCH EXPERIENCE
-**Otago Business School, University of Otago**, New Zealand\
+**[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
 &nbsp;&nbsp;&nbsp;**Ph.D. Researcher, Essays on Climate Finance**, August 2019 - Present 
   - [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
   - [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
   - [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
   - [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
   
-**Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago**, New Zealand\
+**[Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago, New Zealand](https://blogs.otago.ac.nz/cefg/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, May 2020 - Present
   - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
   - [x] CEFGroup Reading Sessions (**Convener**), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (**Convener**), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (**Organizing Committee Secretariat**), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (**Organizing Committee Member**).
   - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
   - [ ]  Researches in Inclusive Green Finance and AI in finance.
  
-  **Asian Research Institute of Banking and Finance**, Malaysia\
+  **[Asian Research Institute of Banking and Finance, Malaysia](http://www.sefb.uum.edu.my/aribf/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, September 2017 - December 2018
-  - Assist CIMB-UUM Chair Prof. Salim Rashid in reserach project on Financial and Banking sectors in Malaysia, and case studies on Immigrant Entrepreneurship and Family-run Dual Business.
+  - I assisted CIMB-UUM Chair Prof. Salim Rashid in reserach project on Financial and Banking sectors in Malaysia, and case studies on Immigrant Entrepreneurship and Family-run Dual Business.
  
- **School of Economics, Finance and Banking, Northern University of Malaysia**, Malaysia\
+ **[School of Economics, Finance and Banking, Northern University of Malaysia, Malaysia**](http://www.sefb.uum.edu.my/)\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, August 2017 - December 2018
-  - Asssit Prof. Mohd Sobri Minai in a Ministry of Higher Education funded FRGS project on Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs.
+  - I asssited Prof. Mohd Sobri Minai in a Ministry of Higher Education funded FRGS project on Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs.
 
- **Accounting Research Institute, MARA University of Technology**, Malaysia\
+ **[Accounting Research Institute, MARA University of Technology, Malaysia](https://ari.uitm.edu.my/)\
 &nbsp;&nbsp;&nbsp;**Research Assistant (Visiting)**, January 2017 - June 2017
-  - Assist Prof. Zuraidah Mohd Sanusi in a project on Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment.
+  - I assisted Prof. Zuraidah Mohd Sanusi in a project on Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment.
  
 
 ## Book Chapter
