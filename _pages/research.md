@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+For the lates updates, please visit <u><a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
 
 
-## Book Chapter
+Book Chapter
+===
 
 ### 1. An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation ###
 ---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, Iftekhar Ahmed, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
