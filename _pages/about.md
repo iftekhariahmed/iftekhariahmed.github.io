@@ -19,5 +19,5 @@ My research interests lie in Financial Economics of Climate Change, Sustainable 
 I will be on job market in 2021/2022.
 
 {% raw %}
-<button onclick="window.open('/files/IFTEKHAR_CV_071321.pdf')">Download CV</button>
+<button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
 {% endraw %}
