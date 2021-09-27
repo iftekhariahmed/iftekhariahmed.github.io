@@ -13,7 +13,7 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 Current Working Paper
 ===
-Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability **`Under Rewiew`**
+Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability **`Under Rewiew`**\
 ---<cite>Iftekhar Ahmed, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 ### Abstract. 
