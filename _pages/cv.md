@@ -19,7 +19,7 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span>iftekhar.ahmed [at] otago.ac.nz | <a href="http://iftekhariahmed.github.io/">iftekhariahmed.github.io</a> | <a href="http://www.twitter.com/iftekhariahmed">@iftekhariahmed</a> | <a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">Google Scholar</a></span></p>
 
 
-## EDUCATION
+## <u>EDUCATION</u>
 **[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
 &nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. in Finance**, July 2022 (expected)\
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis: Essays on Climate Finance\
@@ -35,7 +35,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor Thesis: Sustainability, Outreach and Efficiency of Microfinance Institutions
 
 
-## TEACHING EXPERIENCE
+## <u>TEACHING EXPERIENCE</u>
 **[Department of Accountancy & Finance, University of Otago, New Zealand](https://www.otago.ac.nz/accountancyfinance/index.html)**\
 &nbsp;&nbsp;&nbsp;**Teaching Assistant**, February 2020 - Present
   - FINC304 Financial Markets and Institutions [S1: 2020, 2021]
@@ -48,7 +48,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;**Exam Supervisor**, February 2020 - Present
 
 
-## RESEARCH EXPERIENCE
+## <u>RESEARCH EXPERIENCE</u>
 **[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
 &nbsp;&nbsp;&nbsp;**Ph.D. Researcher, Essays on Climate Finance**, August 2019 - Present 
   - [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
@@ -76,12 +76,12 @@ redirect_from:
   - I assisted Prof. Zuraidah Mohd Sanusi in a project on Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment.
  
 
-## Book Chapter
+## <u>Book Chapter</u>
   - [x] Diaz-Rainey, Ivan, Tulloch, Daniel J., <b>Ahmed, Iftekhar</b>, McCarten, Matthew and Taghizadeh-Hesary, Farhad, 2021. An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI.
   - [x] A working paper on the topic is published by the Asian Development Bank Institute (ADBI), Tokyo: Japan. ADBI Working Paper No. 1217.
 
 
-## Journal Papers
+## <u>Journal Papers</u>
   - [ ] **Ahmed, I.**, Diaz-Rainey, I., Roberts, H. and Nguyen, D. T. T. Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability. `Under-review`.
   - [ ] **Ahmed, I.**, Ibrahim, I., Minai, M. S. Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies. `Under-review`.
   - [ ] Hussain, M. D., **Ahmed, I.**, Mohiuddin, M. and Hossain, M. T. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach. `Under-review`.
@@ -95,13 +95,13 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
   - [x] **Ahmed, I.**, Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016). Social Accountability of Microfinance Institutions in South Asian Region. *International Journal of Economics and Financial Issues*, 6(3), 824-829. (***Scopus, SJR:Q3***).
 
 
-## Working Papers
+## <u>Working Papers</u>
   - [x] Microfinance’s Climate Distress Risk, with Diaz-Rainey, I. and Roberts, H.
   - [x] Systemically Important Microfinance Institutions and Climate Change, with Diaz-Rainey, I. and Roberts, H.
   - [ ] Climate Stress Test of Alternative Financial Institutions, with Diaz-Rainey, I. and Roberts, H.
 
 
-## Conference Presentations
+## <u>Conference Presentations</u>
   - IFABS-Oxford Conference 2021 (online), Oxford, UK.
   - 7th International Young Finance Scholar's Conference 2021 (online), Oxford, UK.
   - 3rd JRC Summer School on Sustainable Finance 2021 (online), Brussels, Belgium.
@@ -114,7 +114,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
   - 4th International Malaysian-Ireland Join Symposium on Engineering, Science and Business 2014, Penang, Malaysia.
 
 
-## Scholarship and Awards
+## <u>Scholarship and Awards</u>
   - **University of Otago Doctoral Scholarship** 2019-2022, University of Otago, New Zealand.
   - **Climate and Energy Finance Group (CEFGroup) Conference Travel Award** 2020, University of Otago, New Zealand.
   - **He Kaupapa Hononga: Otago's Climate Change Research Network Conference Travel Award** 2020, University of Otago, New Zealand.
@@ -122,26 +122,29 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
   - **Dean List Award** 2012/2014, University of Malaysia Perlis, Malaysia.
 
 
-## Technical Skills
+## <u>Technical Skills</u>
   - **Programming Languages**: *Advanced* `STATA` `Eviews` `Microfit` `PLS` `AMOS` `SPSS` *Basic* `Python` `R` `ArcGIS` `GitHub` `LATEX`
   - **Data Analysis**: `Advanced Applied Econometrics` `Macroeconometrics` `Microeconometrics` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
   - **Finance Modelling & Equity Research**: `Bloomberg` `DataStream` `Thomson Reuters Eikon` `MIX`
   - **Miscellaneous**: *Basic* `Spatial modelling`
 
 
-## Affiliations
+## <u>Affiliations</u>
 American Finance Association (AFA), Accounting and Finance Association of Australia and New Zealand (AFAANZ), Financial Management Association (FMA) International, Group for Research on Organizations and the Natural Environment (GRONEN), Operational Research Society (ORSociety).
 
 
-## Professional Services
-  - **Ad-hoc Reviewer**: Accounting & Finance, African Development Review, Applied Economics, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment
+## <u>Service & Leadership</u>
+  ### Ad-hoc Reviewer: 
+  Accounting & Finance, African Development Review, Applied Economics, Economic Research-Ekonomska Istraživanja, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment.
+  
+  ### 
 
-  - **Students' Representative Candidate**, Students' Representative Council (MPP), 2013-2014, University of Malaysia Perlis, Malaysia.
+  - **President**, Bangladesh Student Association (BDSA), 2020-2021. University of Otago, New Zealand.
+  - **Students' Representative Candidate**, Students' Representative Council (MPP), 2013-2014. University of Malaysia Perlis, Malaysia.
+  - **Founding Committee & Treasurer**, International Student Club, 2012-2013. University of Malaysia Perlis, Malaysia.
 
-  - **Founding Committee & Treasurer**, International Student Club, 2012-2013, University of Malaysia Perlis, Malaysia.
 
-
-## Referees
+## <u>Referees</u>
 *Go to PDF*.
 
 ###### *Last updated: September 2021*
