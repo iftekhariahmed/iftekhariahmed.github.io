@@ -10,10 +10,14 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 {% include base_path %}
 
 ## Book Chapter
-Diaz-Rainey, Ivan, Tulloch, Daniel J., <b>Ahmed, Iftekhar.</b>, McCarten, Matthew and Taghizadeh-Hesary, Farhad, 2021. An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [**[<u>Link</u>](https://www.researchgate.net/profile/Iftekhar_Ahmed2/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization/links/6125dbef0c2bfa282a6b5e26/An-Energy-Policy-for-the-Association-of-Southeast-Asian-Nations-Lessons-from-the-European-Unions-Experience-on-Energy-Integration-Security-and-Decarbonization.pdf)**]
+Diaz-Rainey, Ivan, Tulloch, Daniel J., <b>Ahmed, Iftekhar</b>, McCarten, Matthew and Taghizadeh-Hesary, Farhad, 2021. An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [**[Link](https://www.researchgate.net/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization)**]
 
 ## Peer Rewiewed Publications
-<b>Ahmed, Iftekhar</b>, Ibrahim, Yusnidah and Bhuiyan, Abul Bashar, 2021. Microfinance performance in the OIC member states - Does regulation status matter? _International Journal of Development and Conflict, 11(1)_, 1-23. [**[<u>Link</u>](https://www.researchgate.net/profile/Iftekhar_Ahmed2/publication/329254693_Microfinance_Performance_in_the_OIC_Member_States_-_Does_Regulation_Status_Matter/links/611365be169a1a0103f23590/Microfinance-Performance-in-the-OIC-Member-States-Does-Regulation-Status-Matter.pdf)**]
+<b>Ahmed, Iftekhar</b>, Ibrahim, Yusnidah and Bhuiyan, Abul Bashar, 2021. Microfinance performance in the OIC member states - Does regulation status matter? _International Journal of Development and Conflict, 11(1)_, 1-23. [**[Link](https://www.researchgate.net/publication/329254693_Microfinance_Performance_in_the_OIC_Member_States_-_Does_Regulation_Status_Matter)**]
+
+Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries. _Economics & Sociology, 11(2)_, 19-35. [**[Link](https://www.researchgate.net/publication/326342825_The_Influence_of_Institutional_Characteristics_on_Financial_Performance_of_Microfinance_Institutions_in_the_OIC_Countries)**]
+
+<b>Ahmed, Iftekhar</b>, Bhuiyan, Abul Bashar, Ibrahim, Yusnidah, Said, Jamaliah and Salleh, Mohd Fuad, 2016. Social Accountability of Microfinance Institutions in South Asian Region. _International Journal of Economics and Financial Issues, 6(3)_, 824-829. [**[Link](https://www.researchgate.net/publication/307318911_Social_Accountability_of_Microfinance_Institutions_in_South_Asian_Region)**]
 
 ## Working Paper
 
@@ -63,67 +67,9 @@ Diaz-Rainey, Ivan, Tulloch, Daniel J., <b>Ahmed, Iftekhar.</b>, McCarten, Matthe
 
 **Abstract.** Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
 
-
 ## [An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807085), *[ `ADBI Working Paper 1217` ]*
 ---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, <b>Iftekhar Ahmed</b>, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
 
 The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
 
 * *Forthcoming as a chapter in **Economic Integration in Asia and Europe: Lessons and Recommended Policies**. Tokyo: ADBI.
-
-
-
-
-
-
-### 1. An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation ###
----<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, <b>Iftekhar Ahmed</b>, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
-
-The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807085)
-
-**Recommended citation:** `Diaz-Rainey, I., Tulloch, D. J., Ahmed, I., McCarten, M. and Taghizadeh-Hesary, F. (2021). An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation. ADBI Working Paper 1217, Available at SSRN. http://dx.doi.org/10.2139/ssrn.3807085`
-
-* Forthcoming as book chapter in _**Economic Integration in Asia and Europe: Lessons and Recommended Policies**_. Tokyo: ADBI.
-
-
-## Journal Papers
-
-
-### 4. Microfinance performance in the OIC member states - Does regulation status matter? ###
----<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Abul Bashar Bhuiyan</cite>
-
-Despite the emerging concern of mission drift, microfinance institutions (MFIs) in various developing nations have been commercializing and transforming into regulated financial intermediaries. However, a hidden dread is still alive until it is disclosed that the regulated MFIs are actually performing better in both of their financial and social obligations. Hence, this study aims to investigate the effect of regulatory status on the performance of MFIs, using a panel dataset containing 285 observation years from 23 OIC member states. A robust estimation of OLS techniques to the general form of cross-sectional and temporal dependency were applied. The findings do not show any significant evidence that the regulatory status affects the profitability of MFIs. However, the result indicates that the regulated MFIs decrease their outreach to female clientele. The study additionally reveals that the interest rates accelerate the profitability, but it does not necessarily harm the outreach.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278426)
-
-**Recommended citation:** `Ahmed, I., Ibrahim, Y. and Bhuiyan, A. B. (2021), "Microfinance performance in the OIC member states - Does regulation status matter?". International Journal of Development and Conflict. Forthcoming`
-
-**Presentation:**
-* Presented at [**_3rd Annual ECoFI Symposium_**](http://www.sefb.uum.edu.my/ecofi/links), Northern University of Malaysia, Sintok, Malaysia.
-
-
-### 5. 
-
-### 6. The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries ###
----<cite>Yusnidah Ibrahim, Iftekhar Ahmed and Mohd Sobri Minai</cite>
-
-Microfinance institutions (MFIs) proved to be a powerful tool for financial inclusion through developing entrepreneurial activities in rural areas. MFIs provide small-scale loans to the poor who have no access to traditional banking and financial system. However, in the pursuit to meet their social obligation, MFIs need to be financially sustainable and this sustainability largely depends on the institution’s characteristics. This study investigates the influence of MFIs’ characteristics on their financial performance, using the panel dataset of 57 microfinance institutions from the member countries of the Organisation of Islamic Cooperation (OIC). The empirical results show that, as expected, the interest rate charged and the period of existence in the market have a significant positive relationship with the financial performance of MFIs. The results also indicate that credit union and cooperatives, non-bank financial institutions and non-governmental organisations outperformed their counterparts financially. Therefore, the study concludes that charging a high rate of interest may improve institutions’ financial self-sufficiency; however, it is unable to secure MFIs' profit maximization strategy. Conversely, not-for-profit MFIs can ensure their financial viability while serving the poorest clients which is the prime goal of any microfinance program. Hence, MFIs can earn profits, but within limits, complying with their social promise at the same time.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206132)
-
-**Recommended citation:** `Ibrahim, Y., Ahmed, I. and Minai, M. S. (2018), "The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries". Economics & Sociology, 11(2), 19-35. DOI:10.14254/2071-789X.2018/11-2/2, 2018`
-
-**Presentation:**
-* Presented at [**_3rd Annual ECoFI Symposium_**](http://www.sefb.uum.edu.my/ecofi/links), Northern University of Malaysia, Sintok, Malaysia.
-
-### 7. Social Accountability of Microfinance Institutions in South Asian Region ###
----<cite>Iftekhar Ahmed, Abul Bashar Bhuiyan, Yusnidah Ibrahim, Jamaliah Said and Mohammed Fuad Mohd Salleh</cite>
-
-The purpose of the study is to examine the social accountability and argue comparison of outreach level of microfinance institutions (MFIs) in member countries of South Asian Association for Regional Cooperation. The inquiry has employed quantitative research approach to meticulous secondary data that has quantify using financial ratio and multiple regression analysis. Our results expose that gross loan portfolio (GLP) has a significant positive relation with the number of clients served. Conversely, the average loan balance per borrower per gross national income per capital and average outstanding balance have significant negative relation to the dependent variable. On the other hand, the yield on a GLP, size of MFIs and operational self-sufficiency has insignificant effect to the number of active borrowers. Eventually the study found no evidence of trade-off between profitability and outreach breadth. However, interest rate, board and ownership structure and outreach depth issue suggested for the further studies.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2999222)
-
-**Recommended citation:** `Ahmed, I., Bhuiyan, A. B., Ibrahim, Y., Said, J. and Salleh, M. F. M. (2016), "Social Accountability of Microfinance Institutions in South Asian Region". International Journal of Economics and Financial Issues, 6(3), 824-829.` 
-
