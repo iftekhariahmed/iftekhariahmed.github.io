@@ -67,11 +67,11 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;**Research Assistant**, September 2017 - December 2018
   - I assisted CIMB-UUM Chair Prof. Salim Rashid in reserach project on Financial and Banking sectors in Malaysia, and case studies on Immigrant Entrepreneurship and Family-run Dual Business.
  
- **[School of Economics, Finance and Banking, Northern University of Malaysia, Malaysia**](http://www.sefb.uum.edu.my/)\
+ **[School of Economics, Finance and Banking, Northern University of Malaysia, Malaysia](http://www.sefb.uum.edu.my/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, August 2017 - December 2018
   - I asssited Prof. Mohd Sobri Minai in a Ministry of Higher Education funded FRGS project on Investigating the Presence of MFIs Mission Drift in ASEAN and the Mission of Malaysian MFIs.
 
- **[Accounting Research Institute, MARA University of Technology, Malaysia](https://ari.uitm.edu.my/)\
+ **[Accounting Research Institute, MARA University of Technology, Malaysia](https://ari.uitm.edu.my/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant (Visiting)**, January 2017 - June 2017
   - I assisted Prof. Zuraidah Mohd Sanusi in a project on Anti-Fraud and Anti-Money Laundering Mechanisms in Financial Reporting Environment.
  
