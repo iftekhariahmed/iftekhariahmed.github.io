@@ -59,7 +59,7 @@ redirect_from:
 **[Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago, New Zealand](https://blogs.otago.ac.nz/cefg/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, May 2020 - Present
   - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
-  - [x] CEFGroup Reading Sessions (**Convener**), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (**Convener**), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (**Organizing Committee Secretariat**), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (**Organizing Committee Member**).
+  - [x] Organize several events, i.e., CEFGroup Reading Sessions (**Convener**), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (**Convener**), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (**Organizing Committee Secretariat**), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (**Organizing Committee Member**).
   - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
   - [ ]  Researches in Inclusive Green Finance and AI in finance.
  
@@ -134,10 +134,9 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 
 
 ## <u>Service & Leadership</u>
-  ### Ad-hoc Reviewer: 
-  Accounting & Finance, African Development Review, Applied Economics, Economic Research-Ekonomska Istraživanja, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment.
+  - **Ad-hoc Reviewer**: Accounting & Finance, African Development Review, Applied Economics, Economic Research-Ekonomska Istraživanja, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment.
   
-  ### 
+  - **Conference Discussant**: 1st CEFGroup Climate Finance Symposium 2020.
 
   - **President**, Bangladesh Student Association (BDSA), 2020-2021. University of Otago, New Zealand.
   - **Students' Representative Candidate**, Students' Representative Council (MPP), 2013-2014. University of Malaysia Perlis, Malaysia.
