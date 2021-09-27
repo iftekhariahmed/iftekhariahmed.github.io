@@ -13,4 +13,4 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;**E-mail** | iftekhar.ahmed [at] otago.ac.nz | iftekharhbs [at] gmail.com
 
-![](../images/cefgroup_logo.png)
+![](../images/cefgroup_logo1.png)
