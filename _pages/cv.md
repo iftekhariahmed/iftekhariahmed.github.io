@@ -87,7 +87,7 @@ redirect_from:
   - [ ] Hussain, M. D., **Ahmed, I.**, Mohiuddin, M. and Hossain, M. T. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach. `Under-review`.
   - [ ] Ibrahim, I., Minai, M. S., Alam, M. M. and **Ahmed, I.** Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries. `Under-review`.
   - [ ] Hussain, M. D. and **Ahmed, I.** Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh. *Journal of Islamic Accounting and
-Business Research*. (***Scopus, SJR:Q3***). `RnR`.
+Business Research*. (***Scopus, SJR:Q3***). `R&R`.
   - [x] **Ahmed, I.**, Ibrahim, Y. and Bhuiyan, A. B. (2021). Microfinance performance in the OIC member states - Does regulation status matter? *International Journal of
 Development and Conflict*, 11(1), 1-23. (***ABDC:B***).
   - [x] Ibrahim, Y. **Ahmed, I.** and Minai, M. S. (2018). The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC
