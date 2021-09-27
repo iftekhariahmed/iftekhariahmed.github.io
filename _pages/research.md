@@ -18,8 +18,8 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 **Abstract.** This study investigates the association between climate vulnerability, geographic expansion and credit risk in microfinance institution’s (MFIs) loan portfolios. It is motivated by inconclusive evidence concerning the climate vulnerability-bank risk nexus and the geographic expansion-bank risk nexus. Applying system generalized method of moments (GMM) to a sample of global MFIs over the period 1999-2019, we report evidence that climate vulnerability and geographic expansion increase MFI credit risk. The risk is more pronounced for non-shareholder-owned MFIs compared to shareholder-owned MFIs. This suggests MFI expansion into climate prone regions is curtailed in the case of shareholder-owned MFIs to minimize credit risk, overshadowing the microfinance mission to provide banking services to the poorest and the most vulnerable. In addition, we report evidence that climate vulnerability moderates the consequences of geographic diversification in the microfinance industry.
 
-*Conference presented at the IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).*\
-*Seminar presentation at the He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
+*Conference presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July, 2021), 3rd JRC Summer School on Sustainable Finance (July, 2021), 25th Annual New Zealand Finance Colloquium (February, 2021), 1st CEFGroup Climate Finance Symposium (December, 2020).*\
+*Seminar presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
 
 ### Systemically Important Microfinance Institutions in Climate Change Scenarios
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
@@ -35,7 +35,14 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 *Seminar presentation at the University of Otago/PhD Workshop (June 2021).*
 
-### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `Revise & Resubmit, JIABR` ]*
+### [Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443), *[ `Under Rewiew` ]*
+---<cite>,<b>Iftekhar Ahmed</b>, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
+
+**Abstract.** Latest development in the microfinance industry, such as transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
+
+*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December, 2017).
+
+### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `R&R, JIABR` ]*
 ---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
 
 **Abstract.** This study examines the impact of governance on the double bottom-line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions, and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adopt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
@@ -45,12 +52,14 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 **Abstract.** In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
 
-*Conference presentation at the [Financial Markets and Corporate Governance Conference](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (April, 2021).
+*Conference presentation at the [Financial Markets and Corporate Governance Conference](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (April, 2021)*.
 
 ### Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries, *[ `Under Rewiew` ]*
 ---<cite>Yusnidah Ibrahim, Mohd Sobri Minai, Md. Mahmudul Alam and <b>Iftekhar Ahmed</b></cite>
 
 **Abstract.** Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
+
+
 
 
 
@@ -72,13 +81,6 @@ The European Union (EU) has redefined the energy sphere in Europe over the last 
 ## Journal Papers
 
 
-
-
-Download paper here
-
-**Recommended citation:** `Ibrahim, I., Minai, M. S., Alam, M. M. and Ahmed, I. (2021), "Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries".`
-
-
 ### 4. Microfinance performance in the OIC member states - Does regulation status matter? ###
 ---<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Abul Bashar Bhuiyan</cite>
 
@@ -92,17 +94,7 @@ Despite the emerging concern of mission drift, microfinance institutions (MFIs) 
 * Presented at [**_3rd Annual ECoFI Symposium_**](http://www.sefb.uum.edu.my/ecofi/links), Northern University of Malaysia, Sintok, Malaysia.
 
 
-### 5. Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies ###
----<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
-
-Latest development in the microfinance industry, such as; transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443)
-
-**Recommended citation:** `Ahmed, I., Ibrahim, Y. and Minai, M. S. (2018), "Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3278443`
-
-**Presentation:**
-* Presented at [**_Sintok International Conference on Social Science and Management_**](https://repo.uum.edu.my/24644/), Adya Hotel, Langkawi Island, Malaysia.
+### 5. 
 
 ### 6. The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC countries ###
 ---<cite>Yusnidah Ibrahim, Iftekhar Ahmed and Mohd Sobri Minai</cite>
