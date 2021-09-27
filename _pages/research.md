@@ -22,14 +22,14 @@ Working Paper
 ***Seminar*** _presentation at the He Kaupapa Hononga: Otago’s Climate Change Research Network (April, 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020)._
 
 ### Systemically Important Microfinance Institutions in Climate Change Scenarios
----<cite>Iftekhar Ahmed, Ivan Diaz-Rainey and Helen Roberts</cite>
+---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** The purpose of this study is to estimate and apply new measures that identify systemically important microfinance institutions (SIMFIs) in the context of climate change physical risk. The growing threat of large scale destruction and death from extreme climate events threaten the existence of MFIs, spelling major disruption to highly populated developing economies. We argue that the conventional indicators-based approach and calibrated-to-size approach of systemic importance used by banks over-control for asset-size weight making them an inappropriate measure for MFIs. Instead, we propose that asset-size weights be replaced by outreach-size weights to identify systemically important MFIs and use these new measures to determine MFI exposure to climate change. We report systemically important MFIs in the context of climate change at both the global and domestic level.
 
 ***Seminar*** _presentation at the University of Otago/Accountancy & Finance (March 2020)._
 
 ### Microfinance's Climate Distress Risk
----<cite>Iftekhar Ahmed, Ivan Diaz-Rainey and Helen Roberts</cite>
+---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** Using a global dataset of 3,114 microfinance institutions (MFIs) from 124 countries covering the period 1999-2019, this research suggests that MFIs are generally significantly affected by climate-induced risk. Specifically, the findings show that climate-related catastrophes have negative consequences on microfinance’s capital adequacy, asset quality, earnings, and social mission. However, we find limited or no evidence that climate events affect MFIs’ managerial qualities and liquidity. 
 
@@ -41,7 +41,7 @@ Book Chapter
 ===
 
 ### 1. An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation ###
----<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, Iftekhar Ahmed, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
+---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, <b>Iftekhar Ahmed</b>, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
 
 The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
 
