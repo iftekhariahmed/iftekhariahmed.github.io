@@ -35,7 +35,13 @@ Working Paper
 
 ***Seminar*** _presentation at the University of Otago/PhD Workshop (June 2021)._
 
-### Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh, 
+### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `Revise & Resubmit, JIABR` ]*
+---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
+
+**Abstract.** This study examines the impact of governance on the double bottom-line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions, and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adopt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
+
+### 
+
 
 Book Chapter
 ===
@@ -74,14 +80,6 @@ Download paper here
 
 **Recommended citation:** `Ibrahim, I., Minai, M. S., Alam, M. M. and Ahmed, I. (2021), "Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries".`
 
-### 3. Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh ###
----<cite>Mohammad Delwar Hussain and Iftekhar Ahmed</cite>
-
-This study examines the impact of governance on the double bottom line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adapt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
-
-**Recommended citation:** `Hussain, M. D. and Ahmed, I.. (2021), "Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh". Available at SSRN. http://dx.doi.org/10.2139/ssrn.3739386`
-
-* ***RnR*** in _*Journal of Islamic Accounting and Business Research*_.
 
 ### 4. Microfinance performance in the OIC member states - Does regulation status matter? ###
 ---<cite>Iftekhar Ahmed, Yusnidah Ibrahim and Abul Bashar Bhuiyan</cite>
