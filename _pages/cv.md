@@ -50,18 +50,18 @@ redirect_from:
 
 ## <u>RESEARCH EXPERIENCE</u>
 **[Otago Business School, University of Otago, New Zealand](https://www.otago.ac.nz/business/index.html)**\
-&nbsp;&nbsp;&nbsp;**Ph.D. Researcher, Essays on Climate Finance**, August 2019 - Present 
-  [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.
-  [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.
-  [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.
+&nbsp;&nbsp;&nbsp;**Ph.D. Researcher, Essays on Climate Finance**, August 2019 - Present\ 
+  [x] Essay 1: Develop a new index to identify the systemically important microfinance institutions amid climate risk.\
+  [x] Essay 2: Assess the exposure of microfinance institutions' loan portfolios to climate vulnerability and geographic positioning.\
+  [x] Essay 3: Investigate microfinance institutions' distress risk from climate extreme.\
   [ ] Essay 4: Developed a bottom-up financial stress test to examine the potential losses incurred by microfinance institutions across climate scenarios in their loan portfolios.
   
 **[Climate and Energy Finance Group (CEFGroup), Otago Business School, University of Otago, New Zealand](https://blogs.otago.ac.nz/cefg/)**\
-&nbsp;&nbsp;&nbsp;**Research Assistant**, May 2020 - Present
-  - [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
-  - [x] CEFGroup Reading Sessions (**Convener**), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (**Convener**), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (**Organizing Committee Secretariat**), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (**Organizing Committee Member**).
-  - [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.
-  - [ ]  Researches in Inclusive Green Finance and AI in finance.
+&nbsp;&nbsp;&nbsp;**Research Assistant**, May 2020 - Present\
+  [x] Dealing with regular administrative works, including public and private stakeholders' communication, tracking the growth, maintaining CRM, organizng research seminars and symposiums, inviting distinguished academics and industry experts, and updating group's website are among few.
+  [x] CEFGroup Reading Sessions (**Convener**), [CEFGroup Seminars and Webinars](https://blogs.otago.ac.nz/cefg/cefgroup-webinar-do-firms-experiencing-more-wildfires-disclose-more-wildfire-information-in-their-10-ks/) (**Convener**), [3rd GRASFI Conference 2020](https://www.susfinalliance2020.org/program) Tied [Online Workshop on Climate Finance in Asia and Australasia, 2020](https://blogs.otago.ac.nz/cefg/online-workshop-on-climate-finance-in-asia-and-australasia/) (**Organizing Committee Secretariat**), [1st CEFGroup Climate Finance Symposium, 2020](https://blogs.otago.ac.nz/cefg/events/call-for-papers-1st-cefgroup-climate-finance-symposium/) (**Organizing Committee Member**).\
+  [x]  Analyze climate risk to alternative financial institutions, its implications and policy for the bottom of the pyramid.\
+  [ ]  Researches in Inclusive Green Finance and AI in finance.
  
   **[Asian Research Institute of Banking and Finance, Malaysia](http://www.sefb.uum.edu.my/aribf/)**\
 &nbsp;&nbsp;&nbsp;**Research Assistant**, September 2017 - December 2018
