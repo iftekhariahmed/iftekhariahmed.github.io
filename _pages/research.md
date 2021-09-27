@@ -5,11 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-
 For the lates updates, please visit <u><a href="https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-
 {% include base_path %}
+
+## Book Chapter
+Diaz-Rainey, I., Tulloch, D. J., <b>Ahmed, I.</b>, McCarten, M. and Taghizadeh-Hesary, F. (2020). An Energy Policy for Association of Southeast Asian Nations? Lessons from the European Union's Experience on Energy Integration, Security and Decarbonisation. In _Economic Integration in Asia and Europe: Lessons and Recommended Policies_. Tokyo: ADBI. [**[Link](https://www.researchgate.net/profile/Iftekhar_Ahmed2/publication/354116484_An_Energy_Policy_for_the_Association_of_Southeast_Asian_Nations_Lessons_from_the_European_Union's_Experience_on_Energy_Integration_Security_and_Decarbonization/links/6125dbef0c2bfa282a6b5e26/An-Energy-Policy-for-the-Association-of-Southeast-Asian-Nations-Lessons-from-the-European-Unions-Experience-on-Energy-Integration-Security-and-Decarbonization.pdf)**]
 
 ## Working Paper
 
@@ -36,11 +37,11 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 *Seminar presentation at the University of Otago/PhD Workshop (June 2021).*
 
 ### [Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443), *[ `Under Rewiew` ]*
----<cite>,<b>Iftekhar Ahmed</b>, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
+---<cite><b>Iftekhar Ahmed</b>, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
 
 **Abstract.** Latest development in the microfinance industry, such as transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
 
-*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December, 2017).
+*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December, 2017)*.
 
 ### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `R&R, JIABR` ]*
 ---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
@@ -48,7 +49,7 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 **Abstract.** This study examines the impact of governance on the double bottom-line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions, and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adopt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
 
 ### [Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3531819), *[ `Under Rewiew` ]*
----<cite>Mohammad Delwar Hussain, Iftekhar Ahmed, Muhammad Mohiuddin and Md. Tareq Hossain</cite>
+---<cite>Mohammad Delwar Hussain, <b>Iftekhar Ahmed</b>, Muhammad Mohiuddin and Md. Tareq Hossain</cite>
 
 **Abstract.** In view of ‘social-welfare & commercial logic’ it found MFI’s services to the poor are non-linearly influenced by profitability. If MFIs pursue high profit it tends to decrease the outreach. It contributes the existing literature by supporting stewardship theory that is CEO duality is important for developing countries. It develops new dimensions of variables considering MFIs age and size as a moderating role based on stakeholder and resource dependence theory which explain the positive and significant impact on dual performances.
 
@@ -60,11 +61,14 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 **Abstract.** Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
 
 
+## [An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807085), *[ `ADBI Working Paper 1217` ]*
+---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, <b>Iftekhar Ahmed</b>, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
 
+The European Union (EU) has redefined the energy sphere in Europe over the last 3 decades. Transnational policies targeting liberalization and integration, energy efficiency, renewables, carbon pricing, and energy security have led to major steps forward in terms of a more secure, integrated, and environmentally friendly energy supply. We explore, through the lenses of a paradigm shift and transition pathways, how the Association of Southeast Asian Nations (ASEAN) grouping might advance its own energy trilemma through greater energy cooperation. We provide evidence that ASEAN has lagged behind in energy transition, representing considerable risks in multiple forms ‒ most notably, political and physical climate risks from failing to meet the Paris Agreement targets and the risk of stranded assets if accelerated transition is achieved. However, accelerated transition could come in many forms. By drawing on the EU experience, we argue that an energy policy for ASEAN should explicitly pursue a dual transition pathway strategy to yield the best outcome in terms of the energy trilemma. First, an "ASEAN supergrid" supported by a single energy market and by common carbon pricing would "green" urban and industrial demand. Second, "distributed smart grids" would help reap the social and economic benefits of providing electricity to the rural/remotely located population that have hitherto not had access to electricity. This is a dual transnational and local approach that contrasts with energy transition defined at national level. This interconnected approach should yield security, environmental, and economic dividends.
 
+* *Forthcoming as a chapter in **Economic Integration in Asia and Europe: Lessons and Recommended Policies**. Tokyo: ADBI.
 
-Book Chapter
-===
+## Peer Rewiewed Publications
 
 ### 1. An Energy Policy for ASEAN? Lessons from the EU Experience on Energy Integration, Security and Decarbonisation ###
 ---<cite>Ivan Diaz-Rainey, Daniel J. Tulloch, <b>Iftekhar Ahmed</b>, Matthew McCarten and Farhad Taghizadeh-Hesary</cite>
