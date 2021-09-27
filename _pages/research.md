@@ -13,7 +13,7 @@ For the lates updates, please visit <u><a href="https://scholar.google.co.nz/cit
 
 Working Paper
 ===
-### Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability ###, *(`Under Rewiew`)*
+### Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability, *[`Under Rewiew`]*
 ---<cite>Iftekhar Ahmed, Ivan Diaz-Rainey, Helen Roberts and Dung Thuy Thi Nguyen</cite>
 
 **Abstract.** This study investigates the association between climate vulnerability, geographic expansion and credit risk in microfinance institution’s (MFIs) loan portfolios. It is motivated by inconclusive evidence concerning the climate vulnerability-bank risk nexus and the geographic expansion-bank risk nexus. Applying system generalized method of moments (GMM) to a sample of global MFIs over the period 1999-2019, we report evidence that climate vulnerability and geographic expansion increase MFI credit risk. The risk is more pronounced for non-shareholder-owned MFIs compared to shareholder-owned MFIs. This suggests MFI expansion into climate prone regions is curtailed in the case of shareholder-owned MFIs to minimize credit risk, overshadowing the microfinance mission to provide banking services to the poorest and the most vulnerable. In addition, we report evidence that climate vulnerability moderates the consequences of geographic diversification in the microfinance industry.
