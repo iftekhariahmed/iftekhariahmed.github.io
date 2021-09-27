@@ -117,7 +117,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
 ## <u>Scholarship and Awards</u>
   - **University of Otago Doctoral Scholarship** 2019-2022, University of Otago, New Zealand.
   - **Otago Business School Ph.D. Conference Grant** 2019-2020, University of Otago, New Zealand.
-  - **Climate and Energy Finance Group (CEFGroup) Conference Travel Award** 2020, University of Otago, New Zealand.
+  - **Climate and Energy Finance Group Conference Travel Award** 2020, University of Otago, New Zealand.
   - **He Kaupapa Hononga: Otago's Climate Change Research Network Conference Travel Award** 2020, University of Otago, New Zealand.
   - **Best Academic Award for _Excellence in Academics_** 2013, University of Malaysia Perlis, Malaysia.
   - **Dean List Award** 2012/2014, University of Malaysia Perlis, Malaysia.
