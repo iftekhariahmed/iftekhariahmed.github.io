@@ -105,6 +105,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
   - International Conference - Climate Finance: Challenges and lessons for the future 2021 (online), Brighton, UK.
   - FMA Annual Meeting 2021 (online), Denver, Colorado, USA.
   - Globally Sustainable Banking & Finance: In Support of Evidence-Based Policy Making Conference 2021 (online), Belfast, UK.
+  - International Conference on Sustainable Development 2021 (online).
   - 6th Econometric Research in Finance ERFIN Workshop 2021 (online), Warsaw, Poland.
   - IFABS-Oxford Conference 2021 (online), Oxford, UK.
   - 4th Annual GRASFI Conference 2021 (online), Beijing, China.
