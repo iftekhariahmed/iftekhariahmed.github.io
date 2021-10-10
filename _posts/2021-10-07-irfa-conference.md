@@ -13,4 +13,4 @@ The paper entitled ***“Expand or Avoid: Microfinance Credit Risk and Climate V
 
 <a href="https://iftekhariahmed.github.io/files/IRFA_Conference_Globally_Sustainable_Banking_and_Finance.pdf">See FRB's special session programme</a>
 
-![](/images/irfasi21.jpg)
+![](/images/irfasi21.png)
