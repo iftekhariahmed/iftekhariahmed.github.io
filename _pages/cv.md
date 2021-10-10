@@ -114,9 +114,9 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
   - 56th Western Finance Association WFA Annual Meeting 2021 (online).
   - Sustainable Finance and Governance Workshop 2021 (online), Bath, UK.
   - Financial Markets and Corporate Governance Conference 2021 (online), Melbourne, Australia.
-  - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
   - He Kaupapa Hononga: Otago's Climate Change Research Network Postgrad Seminar 2021, Dunedin, New Zealand.
-  - Irish Academy of Finance (IAF) virtual seminar, Dublin, Ireland.
+  - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
+  - Irish Academy of Finance virtual seminar 2020, Dublin, Ireland.
   - 1st CEFGroup Climate Finance Symposium 2020, Dunedin, New Zealand.
   - Sintok International Conference on Social Science and Management 2017, Langkawi Island, Malaysia.
   - 3rd Annual ECoFI Symposium 2016, Sintok, Malaysia.
