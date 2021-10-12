@@ -141,7 +141,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (***Scopus, SJR:Q1***).
 
 
 ## <u>Affiliations</u>
-American Finance Association (AFA), Accounting and Finance Association of Australia and New Zealand (AFAANZ), Financial Management Association (FMA) International, Group for Research on Organizations and the Natural Environment (GRONEN), Operational Research Society (ORSociety).
+American Finance Association (AFA), Accounting and Finance Association of Australia and New Zealand (AFAANZ), Financial Management Association International (FMA), Global Network on Financial Geography (FinGeo), Group for Research on Organizations and the Natural Environment (GRONEN), Operational Research Society (The OR Society).
 
 
 ## <u>Service & Leadership</u>
