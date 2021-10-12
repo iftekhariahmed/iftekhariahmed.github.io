@@ -98,7 +98,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (**Scopus, SJR:Q1**).
 ## <u>Working Papers</u>
   - [x] Microfinance’s Climate Distress Risk, with Diaz-Rainey, I. and Roberts, H.
   - [x] Systemically Important Microfinance Institutions and Climate Change, with Diaz-Rainey, I. and Roberts, H.
-  - [ ] Climate Stress Test of Alternative Financial Institutions, with Diaz-Rainey, I. and Roberts, H.
+  - [ ] Climate Stress Test of Microfinance Institutions, with Diaz-Rainey, I. and Roberts, H.
 
 
 ## <u>Selected Conferences & Seminars</u>
