@@ -147,7 +147,6 @@ American Finance Association (AFA), Accounting and Finance Association of Austra
 ## <u>Service & Leadership</u>
   - **Ad-hoc Reviewer**: Accounting & Finance, African Development Review, Applied Economics, Economic Research-Ekonomska Istraživanja, International Journal of Managerial Finance, Journal of Financial Economic Policy, Journal of Islamic Accounting and Business Research, Journal of Sustainable Finance & Investment.
   - **Conference Discussant**: 1st CEFGroup Climate Finance Symposium 2020.
-
   - **President**, Bangladesh Student Association (BDSA), 2020-2021. University of Otago, New Zealand.
   - **Students' Representative Candidate**, Students' Representative Council (MPP), 2013-2014. University of Malaysia Perlis, Malaysia.
   - **Founding Committee & Treasurer**, International Student Club, 2012-2013. University of Malaysia Perlis, Malaysia.
