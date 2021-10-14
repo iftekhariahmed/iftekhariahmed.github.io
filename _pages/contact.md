@@ -15,3 +15,8 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;E-mail: **`iftekhar.ahmed [at] otago.ac.nz`** / **`iftekharhbs [at] gmail.com`**
 
 ![](../images/cefgroup_logo.jpg)
+
+
+##### Follow me on Twitter
+
+{% twitter https://twitter.com/iftekharIahmed maxwidth=300 limit=2 %}
