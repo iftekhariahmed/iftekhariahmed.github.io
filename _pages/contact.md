@@ -16,9 +16,3 @@ author_profile: true
 
 ![](../images/cefgroup_logo.jpg)
 
-{% raw %}
-##### Follow me on Twitter
-
-{% twitter https://twitter.com/iftekharIahmed maxwidth=300 limit=2 %}
-
-{% endraw %}
