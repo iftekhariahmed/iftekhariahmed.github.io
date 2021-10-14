@@ -21,3 +21,6 @@ I will be on job market in 2021/2022.
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
 {% endraw %}
+
+**Follow me on Twitter**:
+{% twitter https://twitter.com/iftekharIahmed maxwidth=300 limit=2 %}
