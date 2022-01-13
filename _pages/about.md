@@ -16,7 +16,7 @@ Prior to joining the University of Otago, I gained research experience at the **
 
 My research interests lie in Financial Economics of Climate Change, Sustainable and Transition Finance.
 
-I will be on job market in 2021/2022.
+I will be on job market in 2022/2023.
 
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
