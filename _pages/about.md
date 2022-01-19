@@ -14,7 +14,7 @@ I am currently working with [Ivan Diaz-Rainey](https://www.otago.ac.nz/accountan
 
 Prior to joining the University of Otago, I gained research experience at the **Asian Research Institute of Banking and Finance** and **Northern University of Malaysia** on several funded research projects. For example, I worked on a **Ministry of Higher Education (Malaysia)** funded project on MFI’s mission drifts in the ASEAN region. I did a research visit at the [Accounting Research Institute](https://ari.uitm.edu.my/) at the **MARA University of Technology** during my M.Sc. Recently, I provide assistance and analytics to a joint research project by the Northern University of Malaysia and the **Prince of Songkla University** on savings mobilization and **Inclusive Finance** in the ASEAN economies.
 
-My research interests lie in Financial Economics of Climate Change, Sustainable and Transition Finance.
+My research interests lie in Financial Economics of Climate Change, Sustainable Finance and Investment.
 
 I will be on job market in 2022/2023.
 
