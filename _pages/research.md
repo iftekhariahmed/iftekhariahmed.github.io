@@ -43,14 +43,7 @@ Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influ
 
 *Seminar presentation at the University of Otago/PhD Workshop (June 2021).*
 
-### [Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443), *[ `Under Rewiew` ]*
----<cite><b>Iftekhar Ahmed</b>, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
-
-**Abstract.** Latest development in the microfinance industry, such as transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
-
-*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December 2017)*.
-
-### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `R&R, JIABR` ]*
+### [Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739386), *[ `R&R, R2. JIABR` ]*
 ---<cite>Mohammad Delwar Hussain and <b>Iftekhar Ahmed</b></cite>
 
 **Abstract.** This study examines the impact of governance on the double bottom-line performance of microfinance institutions (MFIs) in Bangladesh. Based on a multi-theoretical approach, we analyze 80 MFIs from Bangladesh for the period between 2005-2019. We employ panel data econometrics, particularly pooled OLS, fixed effects, and two-stage system GMM to deal with potential endogeneity concerns. Our findings suggest that the presence of stakeholders on board plays a critical role in MFIs. The size of the board, independence of the board, and duality of the CEO have a major influence on the dual missions of MFIs, which supports the view of stewardship and stakeholder theories. Internal management considerations, risk perceptions, and external governance also have some major impacts. Therefore, to warrant multi-stakeholder engagement, there is a need to develop a distinctive governance manual for hybrid organizations like MFIs. Our study proposes to adopt a social director on the board of directors to ensure the scope of outreach depth, given the importance of social goals in MFIs.
@@ -62,7 +55,14 @@ Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influ
 
 *Conference presentation at the [Financial Markets and Corporate Governance Conference](https://www.latrobe.edu.au/__data/assets/pdf_file/0003/1217514/FMCG-2021-Program_ebook_7Apr2021_FINAL_12.30PM.pdf) (April, 2021)*.
 
-### Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries, *[ `Under Rewiew` ]*
+### [Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3278443)
+---<cite><b>Iftekhar Ahmed</b>, Yusnidah Ibrahim and Mohd Sobri Minai</cite>
+
+**Abstract.** Latest development in the microfinance industry, such as transformation of non-profit microfinance institutions (MFIs) into a profit oriented financial intermediaries or commercialization to channel private equity emerge a great significance to evaluate the relationship between source of funds and poverty outreach. The purpose of this study is to investigate capital structure and outreach nexus in MFIs. The study utilizes a panel dataset containing 5 years of observation from 57 MFIs in 23 member states of the Organization of Islamic Cooperation. The results claim that less leveraged MFIs achieve better depth of outreach. Consequently, high leverage is positively related to the breadth of outreach. Regulated MFIs curtail their depth of outreach, but obtain a greater breadth of outreach and the reason may be the logical indication of increasing emphasis on savings mobilization.
+
+*Conference presented at [Sintok International Conference on Social Science and Management](https://repo.uum.edu.my/24644/), (December 2017)*.
+
+### Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries
 ---<cite>Yusnidah Ibrahim, Mohd Sobri Minai, Md. Mahmudul Alam and <b>Iftekhar Ahmed</b></cite>
 
 **Abstract.** Microfinance was initially developed as an instrument for financial inclusion for people to achieve the bottom line in their endeavours and alleviate poverty. Microfinance institutions (MFIs) are ethically bound for promoting wellbeing of the poor. Thus, the prime objective of microfinance is to provide small-scale loans to rural people who have no excess to finance sources and get them to generate their own income. However, the commercialization of the microfinance industry requires Microfinance Institutions (MFIs) to be profitable business ventures, and has led private equity investors to be very concerned about the problem of mission drift. This paper examines the presence of mission drift among ASEAN MFIs. This study used the panel regression technique to analyse data for 80 MFIs from 2011 to 2016. The empirical findings found negative relationships between the financial performance and social performance of MFIs, indicating the presence of mission drift. Not-for-profit MFIs however is shown to have higher social performance, hence the finding calls for policymakers and development agencies in ASEAN countries to promote more not-for-profit MFIs and implement measures to help private sector MFIs eradicate poverty among the poorest people in this part of the world.
