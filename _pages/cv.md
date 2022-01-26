@@ -83,11 +83,9 @@ redirect_from:
 
 ## <u>Journal Papers</u>
   - [ ] **Ahmed, I.**, Diaz-Rainey, I., Roberts, H. and Nguyen, D. T. T. Expand or Avoid: Microfinance Credit Risk and Climate Vulnerability. `Under-review`.
-  - [ ] **Ahmed, I.**, Ibrahim, I., Minai, M. S. Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies. `Under-review`.
   - [ ] Hussain, M. D., **Ahmed, I.**, Mohiuddin, M. and Hossain, M. T. Stakeholders on Board: Impact in Microfinance Sustainability and Social Outreach. `Under-review`.
-  - [ ] Ibrahim, I., Minai, M. S., Alam, M. M. and **Ahmed, I.** Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries. `Under-review`.
   - [ ] Hussain, M. D. and **Ahmed, I.** Governance and Double Bottom Line Performance of Microfinance Institutions: Evidence from Bangladesh. *Journal of Islamic Accounting and
-Business Research*. (**Scopus, SJR:Q3**). `R&R`.
+Business Research*. (**Scopus, SJR:Q3**). `R&R.R2`.
   - [x] **Ahmed, I.**, Ibrahim, Y. and Bhuiyan, A. B. (2021). Microfinance performance in the OIC member states - Does regulation status matter? *International Journal of
 Development and Conflict*, 11(1), 1-23. (**ABDC:B**).
   - [x] Ibrahim, Y. **Ahmed, I.** and Minai, M. S. (2018). The influence of institutional characteristics on the financial performance of microfinance institutions in the OIC
@@ -98,10 +96,16 @@ countries. *Economics & Sociology*, 11(2), 19-35. (**Scopus, SJR:Q1**).
 ## <u>Working Papers</u>
   - [x] Microfinance’s Climate Distress Risk, with Diaz-Rainey, I. and Roberts, H.
   - [x] Systemically Important Microfinance Institutions and Climate Change, with Diaz-Rainey, I. and Roberts, H.
+  - [x] **Ahmed, I.**, Ibrahim, I., Minai, M. S. Capital Structure and Outreach Nexus of Microfinance Institutions: New Evidences from the Society of Muslim Economies.
+  - [x] Ibrahim, I., Minai, M. S., Alam, M. M. and **Ahmed, I.** Is Mission drift True for Microfinance Institutions? New Evidence from ASEAN Countries.
   - [ ] Climate Stress Test of Microfinance Institutions, with Diaz-Rainey, I. and Roberts, H.
 
 
 ## <u>Selected Conferences & Seminars</u>
+### 2020-2021
+  - ASFAAG - 1st Annual Conference 2021 (online), UK.
+  - 2nd CEFGroup Climate Finance Symposium 2021, Dunedin, New Zealand.
+  - 16th Australasian Development Economics Workshop 2021 (online), Monash University, Melbourne, Australia. 
   - International Conference - Climate Finance: Challenges and lessons for the future 2021 (online), Brighton, UK.
   - FMA Annual Meeting 2021 (online), Denver, Colorado, USA.
   - Banca d'Italia-Bank of England joint research conference on 'The macro-financial impacts of climate change and the net zero transition 2021 (online), Milan, Italy.
@@ -119,6 +123,7 @@ countries. *Economics & Sociology*, 11(2), 19-35. (**Scopus, SJR:Q1**).
   - 25th Annual New Zealand Finance Colloquium 2021, Tauranga, New Zealand.
   - Irish Academy of Finance virtual seminar 2020, Dublin, Ireland.
   - 1st CEFGroup Climate Finance Symposium 2020, Dunedin, New Zealand.
+ ### 2014-2017
   - Sintok International Conference on Social Science and Management 2017, Langkawi Island, Malaysia.
   - 3rd Annual ECoFI Symposium 2016, Sintok, Malaysia.
   - Thematic Workshop on Intra Trade in the Organization of Islamic Cooperation Countries 2015, Sintok, Malaysia.
