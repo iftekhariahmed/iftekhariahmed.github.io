@@ -29,7 +29,7 @@ Ibrahim, Yusnidah, <b>Ahmed, Iftekhar</b> and Minai, Mohd Sobri, 2018. The influ
 *Conference presented at IFABS-Oxford Coference (September 2021), 7th International Young Finance Scholars’ Conference (July 2021), 3rd JRC Summer School on Sustainable Finance (July 2021), 25th Annual New Zealand Finance Colloquium (February 2021), 1st CEFGroup Climate Finance Symposium (December 2020).*\
 *Seminar presentation at He Kaupapa Hononga: Otago’s Climate Change Research Network (April 2021), University of Otago/Accountancy & Finance (October 2020), University of Otago/CEFGroup (June 2020), University of Otago/PhD Workshop (October 2019, June 2020).*
 
-### Systemically Important Microfinance Institutions in Climate Change Scenarios
+### Systemically Important Microfinance Institutions and Climate Risk
 ---<cite><b>Iftekhar Ahmed</b>, Ivan Diaz-Rainey and Helen Roberts</cite>
 
 **Abstract.** The purpose of this study is to estimate and apply new measures that identify systemically important microfinance institutions (SIMFIs) in the context of climate change physical risk. The growing threat of large scale destruction and death from extreme climate events threaten the existence of MFIs, spelling major disruption to highly populated developing economies. We argue that the conventional indicators-based approach and calibrated-to-size approach of systemic importance used by banks over-control for asset-size weight making them an inappropriate measure for MFIs. Instead, we propose that asset-size weights be replaced by outreach-size weights to identify systemically important MFIs and use these new measures to determine MFI exposure to climate change. We report systemically important MFIs in the context of climate change at both the global and domestic level.
