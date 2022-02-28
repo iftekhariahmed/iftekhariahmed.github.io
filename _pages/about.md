@@ -21,3 +21,5 @@ I will be on job market in 2022/2023.
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
 {% endraw %}
+
+![](../images/IA_JM.png)
