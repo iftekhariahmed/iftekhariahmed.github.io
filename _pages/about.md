@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](../images/otago_logo.png){:.align-right}
+![](../images/otago_logo.png){:align-right}
 
 Welcome to my website. I am currently in the final year of a Ph.D. program in Finance, focusing on climate finance at the [Climate and Energy Finance Group (CEFGroup)](https://blogs.otago.ac.nz/cefg/), **University of Otago, New Zealand**. I am working with [Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html) and [Helen Roberts](https://www.otago.ac.nz/accountancyfinance/staff/helenroberts.html) on analyzing the **Climate Risks in Microfinance Institutions** and developing a novel index to identify so-called **"too-big-to-fail"** -systemically important microfinance institutions (SIMFIs) as well as climate risks adjusted SIMFI index (CRSIMFIs).
 
