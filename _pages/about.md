@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](../images/cam_logo.jpg) { width: 200px; }
+![](../images/cam_logo.jpg)
 
 Welcome to my website. 
 
