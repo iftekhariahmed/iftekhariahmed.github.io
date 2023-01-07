@@ -15,7 +15,7 @@ I lead research and projects for the Investment Leaders Group (ILG) workstreams 
 
 I am a climate finance expert with an extensive research and training in climate and inclusive finance. During my doctoral research at the University of Otago, I analysed climate-related financial risks in microfinance institutions. I have held guest lectures on climate financial risks at the University of Otago (New Zealand) and the Global Development Institute, the University of Manchester (UK). I regularly presents new research and projects to academics, practitioners and central banks.
 
-My research interests lie in climate and sustainable finance, with applications in corporate finance, inclusive finance, and financial intermediation.
+My research interests lie in climate and inclusive finance, with applications in corporate finance, and financial intermediation.
 
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
