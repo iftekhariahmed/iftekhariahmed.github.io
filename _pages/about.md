@@ -18,3 +18,5 @@ My research interests lie in climate and transition finance, with applications i
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
 {% endraw %}
+
+*Disclaimer: All views expressed on this site are mine. They do not reflect the views of my employers.*
