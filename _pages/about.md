@@ -13,7 +13,7 @@ Welcome to my website. I lead and design research projects for the Investment Le
 
 I am a sustainable finance expert with extensive research and training in climate and inclusive finance. During my doctoral research at the University of Otago, I analysed climate-related financial risks in microfinance institutions. I have held guest lectures on climate financial risks at the **University of Otago** and the Global Development Institute, at the **University of Manchester**. I regularly present new research projects to academics, practitioners, and central banks.
 
-My research interests lie in climate and sustainable finance, with applications in corporate finance, investments and banking.
+My research interests lie in sustainable finance, with applications in corporate finance and banking.
 
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
