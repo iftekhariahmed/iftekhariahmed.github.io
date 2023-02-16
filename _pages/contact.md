@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Mailing address
 &nbsp;&nbsp;&nbsp;&nbsp;Centre for Sustainable Finance\
-&nbsp;&nbsp;&nbsp;&nbsp;Institute for Sustainability Leadership\
+&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Institute for Sustainability Leadership\
 &nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge\
 &nbsp;&nbsp;&nbsp;&nbsp;The Entopia Building\
 &nbsp;&nbsp;&nbsp;&nbsp;1 Regent St\
