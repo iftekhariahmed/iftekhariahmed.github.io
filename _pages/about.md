@@ -9,11 +9,11 @@ redirect_from:
 ---
 ![](../images/cam_logo.jpg)
 
-Welcome to my website. I am the Lead in Socially Just Impact Finance. I design and deliver research projects for the Investment Leaders Group (ILG) workstreams within **CISL’s Centre for Sustainable Finance** at the **University of Cambridge**. My current research portfolio includes: (a) measuring sustainable investment impacts (E&S) and driving disclosure to inform and influence investors, standard setters and financial supervisors to accelerate the net-zero transition, (b) understanding sustainable development implications of cross-cutting social issues in climate-, nature- and sustainable finance mechanisms.
+Welcome to my website. I am the Lead, Systemic Resilience. I design and deliver research projects for the Investment Leaders Group (ILG) workstreams within **CISL’s Centre for Sustainable Finance** at the **University of Cambridge**. My current research portfolio includes: (a) assessing climate risks on investment portfolios and developing a systemic resilience investment framework that is resilient to complex climate shocks, (b) measuring sustainable investment impacts (environmental and social) and driving disclosure to inform and influence investors, standard setters and financial supervisors to accelerate the just transition, (c) understanding sustainable development implications of cross-cutting social issues in climate-, nature- and transition-related finance mechanisms.
 
 I am a sustainable finance expert with extensive research and training in climate and inclusive finance. During my doctoral research at the University of Otago, I analysed climate-related financial risks in microfinance institutions. I have held guest lectures on climate financial risks at the **University of Otago** and the Global Development Institute, at the **University of Manchester**. I regularly present new research projects to academics, practitioners, and central banks.
 
-My research interests lie in sustainable finance, with applications in corporate finance and banking.
+My research interests lie in climate and sustainable finance, with applications in corporate finance and banking.
 
 {% raw %}
 <button onclick="window.open('/files/IFTEKHAR_CV.pdf')">Download CV</button>
