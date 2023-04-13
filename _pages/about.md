@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![](../images/cam_logo.jpg)
 
-Welcome to my website. I am the Lead, Systemic Resilience. I design and deliver research projects for the Investment Leaders Group (ILG) workstreams within **CISL’s Centre for Sustainable Finance** at the **University of Cambridge**. My research broadly focuses on different aspects of climate and environmental (risks) analytics for resilient finance.
+Welcome to my website. I am the Lead, Systemic Resilience Analytics. I design and deliver research projects for the Investment Leaders Group (ILG) workstreams within **CISL’s Centre for Sustainable Finance** at the **University of Cambridge**. My research broadly focuses on different aspects of climate and environmental (risks) analytics for resilient finance.
 
 My current research portfolio includes:\
 **(a)** assessing the complex interconnections and cascading nature of climate and environmental risks and advancing practical solutions to manage shocks in the financial ecosystem.\
