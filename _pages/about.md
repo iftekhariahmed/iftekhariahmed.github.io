@@ -12,7 +12,7 @@ redirect_from:
 Welcome to my website. I am the Lead, Systemic Resilience Analytics. I design and deliver research projects for the Investment Leaders Group (ILG) workstreams within **CISL’s Centre for Sustainable Finance** at the **University of Cambridge**. My research broadly focuses on different aspects of climate and environmental risk analytics for resilient finance.
 
 My current research portfolio includes:\
-**(a)** assessing the complex interconnections and cascading nature of climate and environmental risks and advancing practical solutions to manage shocks in the financial ecosystem.\
+**(a)** assessing the complex interconnections and dependencies (cascading, compounding and contagion effects) nature of climate and environmental risks and advancing practical solutions to manage shocks in the financial ecosystem.\
 **(b)** measuring sustainable investment impacts (environmental and social) and driving disclosure to inform and influence investors, standard setters and financial supervisors to accelerate the net-zero transition.\
 **(c)** understanding sustainable development implications of cross-cutting social issues in climate-, nature- and transition-related finance mechanisms.
 
