@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "iftekhariahmed"
+  username               : &twitter "dr_iahmed"
 facebook:
   username               :
   app_id                 :
@@ -83,13 +83,13 @@ author:
   name             : "Iftekhar Ahmed"
   avatar           : "web1.jpg"
   bio              : "Catalysing Climate Finance| #BIOFIN🐝 #CLIMAFIN🌡️"
-  location         : "University of Cambridge"
+  location         : "United Kingdom"
   employer         :
   pubmed           : 
   email            : "iftekhar.cam@gmail.com"
   github           : "iftekhariahmed"
-  twitter          : "iftekhariahmed"
-  linkedin         : "iftekhariahmed"
+  twitter          : "dr_iahmed"
+  linkedin         : "dr-iahmed"
   orcid            : "https://orcid.org/0000-0002-9044-7185"
   researchgate     : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=OCPzU9MAAAAJ&hl=en"
